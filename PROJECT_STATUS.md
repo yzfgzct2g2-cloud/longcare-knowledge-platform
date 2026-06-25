@@ -29,3 +29,17 @@ React/Vite法規查詢頁
 3. 生效日搜尋
 4. 修法沿革搜尋
 5. AI法規問答
+
+## Version 1.2.0
+
+完成日期：
+
+2026-06-25
+
+完成內容：
+
+- 身障／醫療輔具資料入口
+- Assistive Devices Page
+- 主搜尋跨制度提示
+- GitHub Repository 建立
+- 第一版正式版本上傳 GitHub

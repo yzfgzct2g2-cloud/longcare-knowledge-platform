@@ -1,0 +1,30 @@
+{
+  "topic": "營養照護",
+  "source_type": "practical_summary",
+  "aliases": [
+    "營養",
+    "營養照顧",
+    "CB01a",
+    "CB01"
+  ],
+  "summary": "營養照護屬專業服務（C碼），現行照顧組合為附表四之CB01a（三次措施〔含評估〕，給付4,500元／原民區或離島5,400元）。115年修正刪除原CB01（營養照護，四次措施，給付4,000元／原民區或離島4,800元），新增CB01a取代之；依第二十二條規定，CB01自114年9月1日起停止適用、CB01a自114年9月1日施行（詳見 code-transition.json）。歷史申報資料之停用與銜接時點需確認。與其他照顧及專業服務共用額度（附表二），由完成認可訓練之長照服務人員或團隊提供（第十八條第四款）。",
+  "common_questions": [
+    "營養照護的碼別是什麼",
+    "CB01和CB01a差在哪",
+    "營養照護給付多少錢",
+    "舊的營養照護碼還能用嗎"
+  ],
+  "related_articles": [8, 16, 18, 22],
+  "related_codes": ["CB01a"],
+  "related_appendices": ["4"],
+  "related_topics": ["專業服務", "吞嚥訓練", "復能服務"],
+  "keywords": [
+    "營養照護",
+    "三次措施",
+    "新增碼別",
+    "CB01停用",
+    "CB01a",
+    "專業服務"
+  ],
+  "law_source_note": "summary 依據 appendix-04（CB01a）、code-transition.json（CB01→CB01a）、article-22（施行日期）。"
+}

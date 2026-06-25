@@ -1,0 +1,111 @@
+{
+  "appendix": "6",
+  "title": "原民區或離島範圍",
+  "effective_date": "111-02-01",
+  "revision_note": "未修正，沿用111/02/01版本。",
+  "related_article": [
+    17
+  ],
+  "keywords": [
+    "原民區",
+    "離島",
+    "原住民族地區",
+    "附表六",
+    "支付價格",
+    "五十五個原民區",
+    "十八個離島"
+  ],
+  "indigenous_areas": [
+    {
+      "county": "新北市",
+      "districts": "烏來區",
+      "count": 1
+    },
+    {
+      "county": "桃園市",
+      "districts": "復興區",
+      "count": 1
+    },
+    {
+      "county": "新竹縣",
+      "districts": "五峰鄉、尖石鄉、關西鎮",
+      "count": 3
+    },
+    {
+      "county": "苗栗縣",
+      "districts": "泰安鄉、南庄鄉、獅潭鄉",
+      "count": 3
+    },
+    {
+      "county": "臺中市",
+      "districts": "和平區",
+      "count": 1
+    },
+    {
+      "county": "南投縣",
+      "districts": "仁愛鄉、信義鄉、魚池鄉",
+      "count": 3
+    },
+    {
+      "county": "嘉義縣",
+      "districts": "阿里山鄉",
+      "count": 1
+    },
+    {
+      "county": "高雄市",
+      "districts": "那瑪夏區、桃源區、茂林區",
+      "count": 3
+    },
+    {
+      "county": "屏東縣",
+      "districts": "三地門鄉、霧臺鄉、瑪家鄉、泰武鄉、來義鄉、春日鄉、獅子鄉、牡丹鄉、滿州鄉",
+      "count": 9
+    },
+    {
+      "county": "宜蘭縣",
+      "districts": "大同鄉、南澳鄉",
+      "count": 2
+    },
+    {
+      "county": "花蓮縣",
+      "districts": "秀林鄉、萬榮鄉、卓溪鄉、花蓮市、吉安鄉、新城鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、瑞穗鄉、玉里鎮、富里鄉",
+      "count": 13
+    },
+    {
+      "county": "臺東縣",
+      "districts": "海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉、臺東市、卑南鄉、大武鄉、太麻里鄉、東河鄉、鹿野鄉、池上鄉、成功鎮、關山鎮、長濱鄉",
+      "count": 15
+    }
+  ],
+  "islands": [
+    {
+      "county": "屏東縣",
+      "districts": "琉球鄉",
+      "count": 1
+    },
+    {
+      "county": "臺東縣",
+      "districts": "綠島鄉",
+      "count": 1
+    },
+    {
+      "county": "澎湖縣",
+      "districts": "馬公市、湖西鄉、白沙鄉、西嶼鄉、望安鄉、七美鄉",
+      "count": 6
+    },
+    {
+      "county": "金門縣",
+      "districts": "金城鎮、金寧鄉、金沙鎮、烈嶼鄉、金湖鎮、烏坵鄉",
+      "count": 6
+    },
+    {
+      "county": "連江縣",
+      "districts": "南竿鄉、北竿鄉、莒光鄉、東引鄉",
+      "count": 4
+    }
+  ],
+  "total_indigenous_areas": 55,
+  "total_islands": 18,
+  "effective_note": "本附表未修正，沿用111年2月1日版本",
+  "source_basis": "111年1月20日發布（111年2月1日施行）"
+}

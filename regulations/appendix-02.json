@@ -1,0 +1,121 @@
+{
+  "appendix": "2",
+  "title": "長照需要等級及長照服務給付項目之額度",
+  "currency": "新臺幣（元）",
+  "effective_date": "115-07-01",
+  "revision_note": "115修正：交通接送改為第一區至第四區；輔具及居家無障礙環境改善服務新增第二組給付額度（三年六萬元）。第二組給付額度自115/07/01施行。",
+  "related_article": [
+    7,
+    10
+  ],
+  "keywords": [
+    "額度",
+    "附表二",
+    "照顧及專業服務",
+    "交通接送",
+    "第一區",
+    "第二區",
+    "第三區",
+    "第四區",
+    "輔具第一組",
+    "輔具第二組",
+    "喘息服務",
+    "40000",
+    "60000",
+    "32340",
+    "48510"
+  ],
+  "items": [
+    {
+      "level": 2,
+      "care_professional_BC": 10020,
+      "transport_zone1": 1680,
+      "transport_zone2": 1840,
+      "transport_zone3": 2000,
+      "transport_zone4": 2400,
+      "aids_group1_3yr": 40000,
+      "aids_group2_3yr": 60000,
+      "respite_yearly": 32340
+    },
+    {
+      "level": 3,
+      "care_professional_BC": 15460,
+      "transport_zone1": 1680,
+      "transport_zone2": 1840,
+      "transport_zone3": 2000,
+      "transport_zone4": 2400,
+      "aids_group1_3yr": 40000,
+      "aids_group2_3yr": 60000,
+      "respite_yearly": 32340
+    },
+    {
+      "level": 4,
+      "care_professional_BC": 18580,
+      "transport_zone1": 1680,
+      "transport_zone2": 1840,
+      "transport_zone3": 2000,
+      "transport_zone4": 2400,
+      "aids_group1_3yr": 40000,
+      "aids_group2_3yr": 60000,
+      "respite_yearly": 32340
+    },
+    {
+      "level": 5,
+      "care_professional_BC": 24100,
+      "transport_zone1": 1680,
+      "transport_zone2": 1840,
+      "transport_zone3": 2000,
+      "transport_zone4": 2400,
+      "aids_group1_3yr": 40000,
+      "aids_group2_3yr": 60000,
+      "respite_yearly": 32340
+    },
+    {
+      "level": 6,
+      "care_professional_BC": 28070,
+      "transport_zone1": 1680,
+      "transport_zone2": 1840,
+      "transport_zone3": 2000,
+      "transport_zone4": 2400,
+      "aids_group1_3yr": 40000,
+      "aids_group2_3yr": 60000,
+      "respite_yearly": 32340
+    },
+    {
+      "level": 7,
+      "care_professional_BC": 32090,
+      "transport_zone1": 1680,
+      "transport_zone2": 1840,
+      "transport_zone3": 2000,
+      "transport_zone4": 2400,
+      "aids_group1_3yr": 40000,
+      "aids_group2_3yr": 60000,
+      "respite_yearly": 48510
+    },
+    {
+      "level": 8,
+      "care_professional_BC": 36180,
+      "transport_zone1": 1680,
+      "transport_zone2": 1840,
+      "transport_zone3": 2000,
+      "transport_zone4": 2400,
+      "aids_group1_3yr": 40000,
+      "aids_group2_3yr": 60000,
+      "respite_yearly": 48510
+    }
+  ],
+  "notes": [
+    "評估結果第一級為身體或心智未失能者，不納入給付範圍。",
+    "輔具及居家無障礙環境改善服務第二組規定自115/07/01施行，得就第一組或第二組擇一申請；115/06/30以前已獲第一組給付者，自核定日起滿三年後始得申請第二組。",
+    "第一組給付項目依附表四輔具及居家無障礙環境改善服務項目；第二組給付項目依附表四 EA01、EB01、EB02、EB03 及居家無障礙環境改善服務 FA08 至 FA44，及附表四之一智慧科技輔具 EI01 至 EI05，其中居家無障礙環境改善服務給付額度於三年期間以二萬元為限。"
+  ],
+  "effective_note": "交通接送分區名稱修正自114年9月1日施行；輔具及居家無障礙環境改善服務第二組給付額度（每三年六萬元）依第二十二條規定自115年7月1日施行；第一組及照顧及專業服務、喘息服務等額度沿用111年2月1日版本",
+  "source_basis": "114年6月19日修正發布；第二十二條第二項",
+  "component_effective_dates": {
+    "照顧及專業服務額度（B、C碼）": "111-02-01",
+    "交通接送分區（D碼，分區名稱修正）": "114-09-01",
+    "輔具及居家無障礙環境改善服務 第一組（4萬/3年）": "111-02-01",
+    "輔具及居家無障礙環境改善服務 第二組（6萬/3年）": "115-07-01",
+    "家庭照顧者支持服務之喘息服務（G碼）": "111-02-01"
+  }
+}

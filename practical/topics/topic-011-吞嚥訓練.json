@@ -1,0 +1,30 @@
+{
+  "topic": "吞嚥訓練",
+  "source_type": "practical_summary",
+  "aliases": [
+    "吞嚥",
+    "吞嚥照護",
+    "進食與吞嚥照護",
+    "進食訓練",
+    "CB02"
+  ],
+  "summary": "進食與吞嚥照護屬專業服務（C碼），照顧組合為附表四之CB02「進食與吞嚥照護」（六次措施）。與其他照顧及專業服務共用額度（附表二），並由符合中央主管機關公告資格及完成認可訓練之長照服務人員或團隊提供（第十八條第四款）。",
+  "common_questions": [
+    "吞嚥訓練的碼別是什麼",
+    "進食與吞嚥照護是專業服務嗎",
+    "吞嚥照護一次提供幾次措施",
+    "吞嚥照護由誰提供"
+  ],
+  "related_articles": [8, 16, 18],
+  "related_codes": ["CB02"],
+  "related_appendices": ["2", "4"],
+  "related_topics": ["專業服務", "營養照護", "復能服務"],
+  "keywords": [
+    "吞嚥",
+    "進食與吞嚥照護",
+    "六次措施",
+    "專業服務",
+    "CB02"
+  ],
+  "law_source_note": "summary 依據 appendix-04（CB02 進食與吞嚥照護）、article-08、article-18。"
+}

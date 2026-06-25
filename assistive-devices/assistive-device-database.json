@@ -1,0 +1,2563 @@
+[
+  {
+    "id": "dis-i001",
+    "name": "推車－一般型",
+    "system": "disability",
+    "category": "個人行動輔具",
+    "subcategory": "",
+    "subsidy_amount": "最高補助金額 6,500 元（單一最高補助金額，實際補助比率依補助辦法第三條：低收入戶全額、中低收入戶75%、一般戶50%）",
+    "renewal_years": "3",
+    "need_assessment": true,
+    "assessment_required": [
+      "甲類輔具：經復健科醫師開立診斷證明書，及相關專業治療師出具輔具評估報告書（格式編號1）"
+    ],
+    "required_documents": [
+      "診斷證明書或輔具評估報告書",
+      "輔具供應商保固書影本"
+    ],
+    "applicable_conditions": [
+      "第七類【b710a】【b710b】【b730a】【b730b】【b735】【b765】【s730】【s750】【s760】或【05】重度以上（重度以上肢體障礙者）",
+      "12歲以下動作發展障礙兒童（如腦性麻痺患者）"
+    ],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表 項次1",
+    "original_text": "項次1 推車－一般型，甲類，最高補助金額6,500元，最低使用年限3年。專為載送人員設計之推車，須配備骨盆帶；推車－一般型含嬰幼兒推車，須具15公斤以上載重功能。各項次（1至3）於最低使用年限內僅能擇一申請。（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "推車",
+      "一般型",
+      "個人行動輔具",
+      "嬰幼兒推車"
+    ],
+    "manual_review": false,
+    "level": "item"
+  },
+  {
+    "id": "dis-i002",
+    "name": "推車－荷重型",
+    "system": "disability",
+    "category": "個人行動輔具",
+    "subcategory": "",
+    "subsidy_amount": "最高補助金額 12,000 元（補助比率依補助辦法第三條）",
+    "renewal_years": "3",
+    "need_assessment": true,
+    "assessment_required": [
+      "甲類輔具：政府設置或委辦之輔具服務單位輔具評估人員開立輔具評估報告書（格式編號1）"
+    ],
+    "required_documents": [
+      "輔具評估報告書",
+      "輔具供應商保固書影本（須含醫療器材許可證字號）"
+    ],
+    "applicable_conditions": [
+      "同個人行動輔具推車類補助對象條件"
+    ],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表 項次2",
+    "original_text": "項次2 推車－荷重型，甲類，最高補助金額12,000元，最低使用年限3年。須具35公斤以上載重功能。（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "推車",
+      "荷重型",
+      "個人行動輔具"
+    ],
+    "manual_review": false,
+    "level": "item"
+  },
+  {
+    "id": "dis-i003",
+    "name": "推車－躺位型",
+    "system": "disability",
+    "category": "個人行動輔具",
+    "subcategory": "",
+    "subsidy_amount": "最高補助金額 28,000 元（補助比率依補助辦法第三條）",
+    "renewal_years": "3",
+    "need_assessment": true,
+    "assessment_required": [
+      "甲類輔具：政府設置或委辦之輔具服務單位輔具評估人員開立輔具評估報告書（格式編號1）"
+    ],
+    "required_documents": [
+      "輔具評估報告書",
+      "輔具供應商保固書影本（須含醫療器材許可證字號）"
+    ],
+    "applicable_conditions": [
+      "同個人行動輔具推車類補助對象條件"
+    ],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表 項次3",
+    "original_text": "項次3 推車－躺位型，甲類，最高補助金額28,000元，最低使用年限3年。須具35公斤以上載重功能，且具空中傾倒功能、座深及踏板高度之機械結構調整功能，並提供頭靠墊、軀幹側支撐墊、臀部（或大腿部）側支撐墊及身體固定帶（可與骨盆帶整合）。（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "推車",
+      "躺位型",
+      "個人行動輔具"
+    ],
+    "manual_review": false,
+    "level": "item"
+  },
+  {
+    "id": "dis-i004",
+    "name": "輪椅－非輕量化量產型",
+    "system": "disability",
+    "category": "個人行動輔具",
+    "subcategory": "",
+    "subsidy_amount": "最高補助金額 3,500 元（補助比率依補助辦法第三條）",
+    "renewal_years": "3",
+    "need_assessment": false,
+    "assessment_required": [
+      "不需評估（由醫師開立診斷證明書即可）"
+    ],
+    "required_documents": [
+      "診斷證明書",
+      "輔具供應商保固書影本"
+    ],
+    "applicable_conditions": [
+      "第一類【b110.4】或【09】（植物人）",
+      "第一類【b117】【b122】【b140】【b144】【b147】【b152】【b160】【b164】或【10】中度以上（中度以上失智症者，對應ICD-9 290.x/294.x/331.x、ICD-10 F01-F05/G30-G31等）",
+      "第二類【b235】或【03】（平衡機能障礙者）",
+      "第七類【b710a】【b710b】等肢體障礙"
+    ],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表 項次4",
+    "original_text": "項次4 輪椅－非輕量化量產型，不需評估，最高補助金額3,500元，最低使用年限3年。補助對象含植物人、中度以上失智症者（附ICD-9/ICD-10對照碼）、平衡機能障礙者及肢體障礙者等。（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "輪椅",
+      "非輕量化量產型",
+      "手動輪椅",
+      "個人行動輔具"
+    ],
+    "manual_review": false,
+    "level": "item"
+  },
+  {
+    "id": "med-r001",
+    "name": "人工電子耳植入手術費用",
+    "system": "medical",
+    "category": "醫療復健費用",
+    "subcategory": "",
+    "subsidy_amount": "低收入戶 120,000 / 中低收入戶 90,000 / 一般戶（非低收非中低）60,000 元",
+    "renewal_years": "終身一次",
+    "need_assessment": true,
+    "assessment_required": [
+      "經身心障礙者輔具補助辦法規定之評估方式確認需求，並提供輔具評估報告"
+    ],
+    "required_documents": [
+      "輔具評估報告"
+    ],
+    "applicable_conditions": [
+      "補助對象應符合本標準第二條第一項規定，經確認需求並提供輔具評估報告者"
+    ],
+    "effective_date": "",
+    "source_law": "身心障礙者醫療復健費用及醫療輔具補助標準（附表：醫療復健費用及醫療輔具補助標準）",
+    "citation": "醫療復健費用及醫療輔具補助標準 一、醫療復健費用",
+    "original_text": "一、醫療復健費用：人工電子耳植入手術費用。低收入戶最高補助120,000元、中低收入戶90,000元、非低收入戶及非中低收入戶60,000元；最低使用年限：終身一次。（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "人工電子耳",
+      "植入手術",
+      "醫療復健費用"
+    ],
+    "manual_review": false,
+    "level": "item"
+  },
+  {
+    "id": "med-r002",
+    "name": "開具診斷證明書費用",
+    "system": "medical",
+    "category": "醫療復健費用",
+    "subcategory": "",
+    "subsidy_amount": "低收入戶 200 / 中低收入戶 200 / 一般戶 100 元",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [],
+    "required_documents": [
+      "診斷證明書"
+    ],
+    "applicable_conditions": [
+      "補助對象應符合第二條第一項規定，經核定確有本表所列醫療輔具項目之需求者",
+      "申請本表醫療輔具項目補助時，應同時提出該項目所需診斷證明書之費用申請"
+    ],
+    "effective_date": "",
+    "source_law": "身心障礙者醫療復健費用及醫療輔具補助標準（附表：醫療復健費用及醫療輔具補助標準）",
+    "citation": "醫療復健費用及醫療輔具補助標準 一、醫療復健費用",
+    "original_text": "一、醫療復健費用：開具診斷證明書費用。低收入戶200元、中低收入戶200元、一般戶100元。（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "診斷證明書",
+      "費用",
+      "醫療復健費用"
+    ],
+    "manual_review": false,
+    "level": "item"
+  },
+  {
+    "id": "med-r003",
+    "name": "開具醫療輔具評估報告費用",
+    "system": "medical",
+    "category": "醫療復健費用",
+    "subcategory": "",
+    "subsidy_amount": "低收入戶 200 / 中低收入戶 200 / 一般戶 100 元",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [],
+    "required_documents": [
+      "醫療輔具評估報告"
+    ],
+    "applicable_conditions": [
+      "補助對象應符合第二條第一項規定，經核定確有本表所列醫療輔具項目之需求者",
+      "申請本表醫療輔具項目補助時，應同時提出該項目所需醫療輔具評估報告之費用申請"
+    ],
+    "effective_date": "",
+    "source_law": "身心障礙者醫療復健費用及醫療輔具補助標準（附表：醫療復健費用及醫療輔具補助標準）",
+    "citation": "醫療復健費用及醫療輔具補助標準 一、醫療復健費用",
+    "original_text": "一、醫療復健費用：開具醫療輔具評估報告費用。低收入戶200元、中低收入戶200元、一般戶100元。（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "醫療輔具評估報告",
+      "費用",
+      "醫療復健費用"
+    ],
+    "manual_review": false,
+    "level": "item"
+  },
+  {
+    "id": "med-d001",
+    "name": "電動拍痰器",
+    "system": "medical",
+    "category": "醫療輔具",
+    "subcategory": "",
+    "subsidy_amount": "低收入戶 15,000 / 中低收入戶 11,300 / 一般戶 7,500 元",
+    "renewal_years": "",
+    "need_assessment": true,
+    "assessment_required": [
+      "醫療輔具編碼1至9項：應出具診斷證明書（由身心障礙者鑑定作業辦法附表一甲第四類循環、造血、免疫與呼吸系統專科醫師開具）；編碼7至9項另須醫療輔具評估報告"
+    ],
+    "required_documents": [
+      "診斷證明書",
+      "醫療輔具評估報告（編碼7-9）",
+      "保固書或租賃契約書影本"
+    ],
+    "applicable_conditions": [
+      "因身體系統構造或功能損傷造成呼吸功能不全，無法有效自行咳嗽清除痰液，須長期使用以協助自行換氣、改善呼吸問題者"
+    ],
+    "effective_date": "",
+    "source_law": "身心障礙者醫療復健費用及醫療輔具補助標準（附表：醫療復健費用及醫療輔具補助標準）",
+    "citation": "醫療復健費用及醫療輔具補助標準 二、醫療輔具 編碼1",
+    "original_text": "醫療輔具編碼1 電動拍痰器，最高補助金額：低收入戶15,000元、中低收入戶11,300元、一般戶7,500元。（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "電動拍痰器",
+      "醫療輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "補助金額取自OCR辨識，最低使用年限欄位未能可靠辨識，須對照原PDF逐項確認",
+    "level": "item"
+  },
+  {
+    "id": "med-d002",
+    "name": "非蓄電式抽痰機",
+    "system": "medical",
+    "category": "醫療輔具",
+    "subcategory": "",
+    "subsidy_amount": "低收入戶 5,000 / 中低收入戶 3,800 / 一般戶 2,500 元",
+    "renewal_years": "",
+    "need_assessment": true,
+    "assessment_required": [
+      "醫療輔具編碼1至9項：應出具診斷證明書（由身心障礙者鑑定作業辦法附表一甲第四類循環、造血、免疫與呼吸系統專科醫師開具）；編碼7至9項另須醫療輔具評估報告"
+    ],
+    "required_documents": [
+      "診斷證明書",
+      "醫療輔具評估報告（編碼7-9）",
+      "保固書或租賃契約書影本"
+    ],
+    "applicable_conditions": [
+      "呼吸功能不全須長期抽痰者（規格：壓力流量可調 80-250mmHg）"
+    ],
+    "effective_date": "",
+    "source_law": "身心障礙者醫療復健費用及醫療輔具補助標準（附表：醫療復健費用及醫療輔具補助標準）",
+    "citation": "醫療復健費用及醫療輔具補助標準 二、醫療輔具 編碼2",
+    "original_text": "醫療輔具編碼2 非蓄電式抽痰機，最高補助金額：低收入戶5,000元、中低收入戶3,800元、一般戶2,500元。（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "非蓄電式抽痰機",
+      "醫療輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "補助金額取自OCR辨識，最低使用年限欄位未能可靠辨識，須對照原PDF逐項確認",
+    "level": "item"
+  },
+  {
+    "id": "med-d003",
+    "name": "蓄電式（交直流兩用）抽痰機",
+    "system": "medical",
+    "category": "醫療輔具",
+    "subcategory": "",
+    "subsidy_amount": "低收入戶 10,000 / 中低收入戶 7,500 / 一般戶 5,000 元",
+    "renewal_years": "",
+    "need_assessment": true,
+    "assessment_required": [
+      "醫療輔具編碼1至9項：應出具診斷證明書（由身心障礙者鑑定作業辦法附表一甲第四類循環、造血、免疫與呼吸系統專科醫師開具）；編碼7至9項另須醫療輔具評估報告"
+    ],
+    "required_documents": [
+      "診斷證明書",
+      "醫療輔具評估報告（編碼7-9）",
+      "保固書或租賃契約書影本"
+    ],
+    "applicable_conditions": [
+      "呼吸功能不全須長期抽痰且需停電備援者（內建電池停電可連續抽吸30分鐘）"
+    ],
+    "effective_date": "",
+    "source_law": "身心障礙者醫療復健費用及醫療輔具補助標準（附表：醫療復健費用及醫療輔具補助標準）",
+    "citation": "醫療復健費用及醫療輔具補助標準 二、醫療輔具 編碼3",
+    "original_text": "醫療輔具編碼3 蓄電式（交直流兩用）抽痰機，最高補助金額：低收入戶10,000元、中低收入戶7,500元、一般戶5,000元。（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "蓄電式（交直流兩用）抽痰機",
+      "醫療輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "補助金額取自OCR辨識，最低使用年限欄位未能可靠辨識，須對照原PDF逐項確認",
+    "level": "item"
+  },
+  {
+    "id": "med-d004",
+    "name": "化痰機（噴霧器）",
+    "system": "medical",
+    "category": "醫療輔具",
+    "subcategory": "",
+    "subsidy_amount": "低收入戶 5,000 / 中低收入戶 3,800 / 一般戶 2,500 元",
+    "renewal_years": "",
+    "need_assessment": true,
+    "assessment_required": [
+      "醫療輔具編碼1至9項：應出具診斷證明書（由身心障礙者鑑定作業辦法附表一甲第四類循環、造血、免疫與呼吸系統專科醫師開具）；編碼7至9項另須醫療輔具評估報告"
+    ],
+    "required_documents": [
+      "診斷證明書",
+      "醫療輔具評估報告（編碼7-9）",
+      "保固書或租賃契約書影本"
+    ],
+    "applicable_conditions": [
+      "須化痰治療者（可提供≤5μm氣霧粒子）"
+    ],
+    "effective_date": "",
+    "source_law": "身心障礙者醫療復健費用及醫療輔具補助標準（附表：醫療復健費用及醫療輔具補助標準）",
+    "citation": "醫療復健費用及醫療輔具補助標準 二、醫療輔具 編碼4",
+    "original_text": "醫療輔具編碼4 化痰機（噴霧器），最高補助金額：低收入戶5,000元、中低收入戶3,800元、一般戶2,500元。（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "化痰機（噴霧器）",
+      "醫療輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "補助金額取自OCR辨識，最低使用年限欄位未能可靠辨識，須對照原PDF逐項確認",
+    "level": "item"
+  },
+  {
+    "id": "med-d005",
+    "name": "血氧偵測（血氧機）",
+    "system": "medical",
+    "category": "醫療輔具",
+    "subcategory": "",
+    "subsidy_amount": "低收入戶 6,000 / 中低收入戶 4,500 / 一般戶 3,000 元",
+    "renewal_years": "",
+    "need_assessment": true,
+    "assessment_required": [
+      "醫療輔具編碼1至9項：應出具診斷證明書（由身心障礙者鑑定作業辦法附表一甲第四類循環、造血、免疫與呼吸系統專科醫師開具）；編碼7至9項另須醫療輔具評估報告"
+    ],
+    "required_documents": [
+      "診斷證明書",
+      "醫療輔具評估報告（編碼7-9）",
+      "保固書或租賃契約書影本"
+    ],
+    "applicable_conditions": [
+      "因重要器官失去功能致呼吸障礙，須長期監測或改善呼吸問題者"
+    ],
+    "effective_date": "",
+    "source_law": "身心障礙者醫療復健費用及醫療輔具補助標準（附表：醫療復健費用及醫療輔具補助標準）",
+    "citation": "醫療復健費用及醫療輔具補助標準 二、醫療輔具 編碼5",
+    "original_text": "醫療輔具編碼5 血氧偵測（血氧機），最高補助金額：低收入戶6,000元、中低收入戶4,500元、一般戶3,000元。（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "血氧偵測（血氧機）",
+      "醫療輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "補助金額取自OCR辨識，最低使用年限欄位未能可靠辨識，須對照原PDF逐項確認",
+    "level": "item"
+  },
+  {
+    "id": "med-d006",
+    "name": "氧氣製造機",
+    "system": "medical",
+    "category": "醫療輔具",
+    "subcategory": "",
+    "subsidy_amount": "低收入戶 25,000 / 中低收入戶 18,800 / 一般戶 12,500 元",
+    "renewal_years": "",
+    "need_assessment": true,
+    "assessment_required": [
+      "醫療輔具編碼1至9項：應出具診斷證明書（由身心障礙者鑑定作業辦法附表一甲第四類循環、造血、免疫與呼吸系統專科醫師開具）；編碼7至9項另須醫療輔具評估報告"
+    ],
+    "required_documents": [
+      "診斷證明書",
+      "醫療輔具評估報告（編碼7-9）",
+      "保固書或租賃契約書影本"
+    ],
+    "applicable_conditions": [
+      "因重要器官失去功能致呼吸障礙，須長期使用氧氣製造機者"
+    ],
+    "effective_date": "",
+    "source_law": "身心障礙者醫療復健費用及醫療輔具補助標準（附表：醫療復健費用及醫療輔具補助標準）",
+    "citation": "醫療復健費用及醫療輔具補助標準 二、醫療輔具 編碼6",
+    "original_text": "醫療輔具編碼6 氧氣製造機，最高補助金額：低收入戶25,000元、中低收入戶18,800元、一般戶12,500元。（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "氧氣製造機",
+      "醫療輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "補助金額取自OCR辨識，最低使用年限欄位未能可靠辨識，須對照原PDF逐項確認",
+    "level": "item"
+  },
+  {
+    "id": "med-d007",
+    "name": "咳嗽輔助器（Cough Assist Machine）",
+    "system": "medical",
+    "category": "醫療輔具",
+    "subcategory": "",
+    "subsidy_amount": "低收入戶 120,000 / 中低收入戶 90,000 / 一般戶 60,000 元",
+    "renewal_years": "",
+    "need_assessment": true,
+    "assessment_required": [
+      "醫療輔具編碼1至9項：應出具診斷證明書（由身心障礙者鑑定作業辦法附表一甲第四類循環、造血、免疫與呼吸系統專科醫師開具）；編碼7至9項另須醫療輔具評估報告"
+    ],
+    "required_documents": [
+      "診斷證明書",
+      "醫療輔具評估報告（編碼7-9）",
+      "保固書或租賃契約書影本"
+    ],
+    "applicable_conditions": [
+      "因神經肌肉損傷或弱化造成呼吸功能不全，無法有效自行咳嗽清除痰液，須長期使用以排除呼吸道分泌物者"
+    ],
+    "effective_date": "",
+    "source_law": "身心障礙者醫療復健費用及醫療輔具補助標準（附表：醫療復健費用及醫療輔具補助標準）",
+    "citation": "醫療復健費用及醫療輔具補助標準 二、醫療輔具 編碼7",
+    "original_text": "醫療輔具編碼7 咳嗽輔助器（Cough Assist Machine），最高補助金額：低收入戶120,000元、中低收入戶90,000元、一般戶60,000元。（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "咳嗽輔助器（Cough Assist Machine）",
+      "醫療輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "補助金額取自OCR辨識，最低使用年限欄位未能可靠辨識，須對照原PDF逐項確認",
+    "level": "item"
+  },
+  {
+    "id": "med-d011",
+    "name": "單相陽壓呼吸器（CPAP）",
+    "system": "medical",
+    "category": "醫療輔具",
+    "subcategory": "",
+    "subsidy_amount": "低收入戶 40,000 / 中低收入戶 30,000 / 一般戶 20,000 元",
+    "renewal_years": "",
+    "need_assessment": true,
+    "assessment_required": [
+      "醫療輔具編碼1至9項：應出具診斷證明書（由身心障礙者鑑定作業辦法附表一甲第四類循環、造血、免疫與呼吸系統專科醫師開具）；編碼7至9項另須醫療輔具評估報告"
+    ],
+    "required_documents": [
+      "診斷證明書",
+      "醫療輔具評估報告（編碼7-9）",
+      "保固書或租賃契約書影本"
+    ],
+    "applicable_conditions": [
+      "因重度缺氧最低達SpO2≤85%或PCO2≥55mmHg，須長期使用以改善呼吸問題者"
+    ],
+    "effective_date": "",
+    "source_law": "身心障礙者醫療復健費用及醫療輔具補助標準（附表：醫療復健費用及醫療輔具補助標準）",
+    "citation": "醫療復健費用及醫療輔具補助標準 二、醫療輔具 編碼11",
+    "original_text": "醫療輔具編碼11 單相陽壓呼吸器（CPAP），最高補助金額：低收入戶40,000元、中低收入戶30,000元、一般戶20,000元。（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "單相陽壓呼吸器（CPAP）",
+      "醫療輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "補助金額取自OCR辨識，最低使用年限欄位未能可靠辨識，須對照原PDF逐項確認",
+    "level": "item"
+  },
+  {
+    "id": "med-d012",
+    "name": "雙相陽壓呼吸器（BiPAP）",
+    "system": "medical",
+    "category": "醫療輔具",
+    "subcategory": "",
+    "subsidy_amount": "低收入戶 140,000 / 中低收入戶 105,000 / 一般戶 70,000 元",
+    "renewal_years": "",
+    "need_assessment": true,
+    "assessment_required": [
+      "醫療輔具編碼1至9項：應出具診斷證明書（由身心障礙者鑑定作業辦法附表一甲第四類循環、造血、免疫與呼吸系統專科醫師開具）；編碼7至9項另須醫療輔具評估報告"
+    ],
+    "required_documents": [
+      "診斷證明書",
+      "醫療輔具評估報告（編碼7-9）",
+      "保固書或租賃契約書影本"
+    ],
+    "applicable_conditions": [
+      "因肺部功能損傷或切除造成呼吸功能不全，無法自行有效換氣者"
+    ],
+    "effective_date": "",
+    "source_law": "身心障礙者醫療復健費用及醫療輔具補助標準（附表：醫療復健費用及醫療輔具補助標準）",
+    "citation": "醫療復健費用及醫療輔具補助標準 二、醫療輔具 編碼12",
+    "original_text": "醫療輔具編碼12 雙相陽壓呼吸器（BiPAP），最高補助金額：低收入戶140,000元、中低收入戶105,000元、一般戶70,000元。（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "雙相陽壓呼吸器（BiPAP）",
+      "醫療輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "補助金額取自OCR辨識，最低使用年限欄位未能可靠辨識，須對照原PDF逐項確認",
+    "level": "item"
+  },
+  {
+    "id": "med-d013",
+    "name": "UPS不斷電系統",
+    "system": "medical",
+    "category": "醫療輔具",
+    "subcategory": "",
+    "subsidy_amount": "低收入戶 2,500 / 中低收入戶 1,900 / 一般戶 1,300 元",
+    "renewal_years": "",
+    "need_assessment": true,
+    "assessment_required": [
+      "醫療輔具編碼1至9項：應出具診斷證明書（由身心障礙者鑑定作業辦法附表一甲第四類循環、造血、免疫與呼吸系統專科醫師開具）；編碼7至9項另須醫療輔具評估報告"
+    ],
+    "required_documents": [
+      "診斷證明書",
+      "醫療輔具評估報告（編碼7-9）",
+      "保固書或租賃契約書影本"
+    ],
+    "applicable_conditions": [
+      "因使用本表所列醫療輔具項目，有緊急供電需求以維護呼吸道通暢者（停電可連續供電抽吸30分鐘）"
+    ],
+    "effective_date": "",
+    "source_law": "身心障礙者醫療復健費用及醫療輔具補助標準（附表：醫療復健費用及醫療輔具補助標準）",
+    "citation": "醫療復健費用及醫療輔具補助標準 二、醫療輔具 編碼13",
+    "original_text": "醫療輔具編碼13 UPS不斷電系統，最高補助金額：低收入戶2,500元、中低收入戶1,900元、一般戶1,300元。（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "UPS不斷電系統",
+      "醫療輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "補助金額取自OCR辨識，最低使用年限欄位未能可靠辨識，須對照原PDF逐項確認",
+    "level": "item"
+  },
+  {
+    "id": "med-d014",
+    "name": "壓力衣（A至K款）",
+    "system": "medical",
+    "category": "醫療輔具",
+    "subcategory": "",
+    "subsidy_amount": "",
+    "renewal_years": "6個月",
+    "need_assessment": true,
+    "assessment_required": [
+      "應出具診斷證明書（第八類皮膚與相關構造專科醫師）及醫療輔具評估報告（醫師、物理治療師或職能治療師）"
+    ],
+    "required_documents": [
+      "診斷證明書",
+      "醫療輔具評估報告",
+      "保固書影本"
+    ],
+    "applicable_conditions": [
+      "因燒傷、皮膚傷、腫瘤或循環障礙致有壓力衣需求者；各款對應不同身體部位（A頭頸、B肩胸腹背…至K等）"
+    ],
+    "effective_date": "",
+    "source_law": "身心障礙者醫療復健費用及醫療輔具補助標準（附表：醫療復健費用及醫療輔具補助標準）",
+    "citation": "醫療復健費用及醫療輔具補助標準 二、醫療輔具 壓力衣各款",
+    "original_text": "壓力衣分A至K款，對應頭部/頸部、肩胸腹背、上臂肘前臂、手、腰臀大腿、小腿、踝足等不同部位，各款最高補助金額不同（OCR辨識為A款約3,000、B款約4,600、矽膠片9,000等，金額易混淆），最低使用年限6個月。各款合併申請視為補助一項次。（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "壓力衣",
+      "彈性衣",
+      "燒傷",
+      "醫療輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "A至K款各部位金額眾多且OCR欄位對位不確定，須逐款對照原PDF補正補助金額",
+    "level": "item"
+  },
+  {
+    "id": "med-d015",
+    "name": "矽膠片",
+    "system": "medical",
+    "category": "醫療輔具",
+    "subcategory": "",
+    "subsidy_amount": "低收入戶 9,000 / 中低收入戶 6,800 / 一般戶 4,500 元（OCR辨識，待確認）",
+    "renewal_years": "6個月",
+    "need_assessment": true,
+    "assessment_required": [
+      "應出具診斷證明書（第八類皮膚與相關構造專科醫師），載明需使用矽膠片之部位及面積"
+    ],
+    "required_documents": [
+      "診斷證明書",
+      "保固書（醫療器材許可證字號）"
+    ],
+    "applicable_conditions": [
+      "因燒傷或皮膚損傷需重建者；每平方公分補助15元，並以本項補助金額為上限"
+    ],
+    "effective_date": "",
+    "source_law": "身心障礙者醫療復健費用及醫療輔具補助標準（附表：醫療復健費用及醫療輔具補助標準）",
+    "citation": "醫療復健費用及醫療輔具補助標準 二、醫療輔具 編碼22",
+    "original_text": "編碼22 矽膠片，最低使用年限6個月，每平方公分補助金額15元並以本項補助金額為上限。（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "矽膠片",
+      "疤痕",
+      "醫療輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "補助金額取自OCR，須對照原PDF確認",
+    "level": "item"
+  },
+  {
+    "id": "dis-f001",
+    "name": "手動輪椅",
+    "system": "disability",
+    "category": "個人行動輔具",
+    "subcategory": "",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（個人行動輔具 序次1至58）",
+    "original_text": "【含推車、手（電）動輪椅、輪椅附加功能及配件、坐位系統、電動代步車、特製汽機車改裝、步行輔具、移位輔具、視障用白手杖或杖頭】序次1至58（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "手動輪椅",
+      "個人行動輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f002",
+    "name": "電動輪椅",
+    "system": "disability",
+    "category": "個人行動輔具",
+    "subcategory": "",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（個人行動輔具 序次1至58）",
+    "original_text": "【含推車、手（電）動輪椅、輪椅附加功能及配件、坐位系統、電動代步車、特製汽機車改裝、步行輔具、移位輔具、視障用白手杖或杖頭】序次1至58（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "電動輪椅",
+      "個人行動輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f003",
+    "name": "輪椅附加功能及配件",
+    "system": "disability",
+    "category": "個人行動輔具",
+    "subcategory": "",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（個人行動輔具 序次1至58）",
+    "original_text": "【含推車、手（電）動輪椅、輪椅附加功能及配件、坐位系統、電動代步車、特製汽機車改裝、步行輔具、移位輔具、視障用白手杖或杖頭】序次1至58（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "輪椅附加功能及配件",
+      "個人行動輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f004",
+    "name": "坐位系統",
+    "system": "disability",
+    "category": "個人行動輔具",
+    "subcategory": "",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（個人行動輔具 序次1至58）",
+    "original_text": "【含推車、手（電）動輪椅、輪椅附加功能及配件、坐位系統、電動代步車、特製汽機車改裝、步行輔具、移位輔具、視障用白手杖或杖頭】序次1至58（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "坐位系統",
+      "個人行動輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f005",
+    "name": "電動代步車",
+    "system": "disability",
+    "category": "個人行動輔具",
+    "subcategory": "",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（個人行動輔具 序次1至58）",
+    "original_text": "【含推車、手（電）動輪椅、輪椅附加功能及配件、坐位系統、電動代步車、特製汽機車改裝、步行輔具、移位輔具、視障用白手杖或杖頭】序次1至58（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "電動代步車",
+      "個人行動輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f006",
+    "name": "特製汽機車改裝",
+    "system": "disability",
+    "category": "個人行動輔具",
+    "subcategory": "",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（個人行動輔具 序次1至58）",
+    "original_text": "【含推車、手（電）動輪椅、輪椅附加功能及配件、坐位系統、電動代步車、特製汽機車改裝、步行輔具、移位輔具、視障用白手杖或杖頭】序次1至58（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "特製汽機車改裝",
+      "個人行動輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f007",
+    "name": "步行輔具",
+    "system": "disability",
+    "category": "個人行動輔具",
+    "subcategory": "",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（個人行動輔具 序次1至58）",
+    "original_text": "【含推車、手（電）動輪椅、輪椅附加功能及配件、坐位系統、電動代步車、特製汽機車改裝、步行輔具、移位輔具、視障用白手杖或杖頭】序次1至58（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "步行輔具",
+      "個人行動輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f008",
+    "name": "移位輔具",
+    "system": "disability",
+    "category": "個人行動輔具",
+    "subcategory": "",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（個人行動輔具 序次1至58）",
+    "original_text": "【含推車、手（電）動輪椅、輪椅附加功能及配件、坐位系統、電動代步車、特製汽機車改裝、步行輔具、移位輔具、視障用白手杖或杖頭】序次1至58（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "移位輔具",
+      "個人行動輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f009",
+    "name": "視障用白手杖或杖頭",
+    "system": "disability",
+    "category": "個人行動輔具",
+    "subcategory": "",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（個人行動輔具 序次1至58）",
+    "original_text": "【含推車、手（電）動輪椅、輪椅附加功能及配件、坐位系統、電動代步車、特製汽機車改裝、步行輔具、移位輔具、視障用白手杖或杖頭】序次1至58（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "視障用白手杖或杖頭",
+      "個人行動輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f010",
+    "name": "收音機或隨身聽",
+    "system": "disability",
+    "category": "溝通及資訊輔具",
+    "subcategory": "視覺相關輔具",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（溝通及資訊輔具視覺相關輔具 序次59至78）",
+    "original_text": "【含收音機或隨身聽、讀書機、點字手錶、語音報時器、特製眼鏡鏡片、角膜疾病顯示器、擴視機、螢幕報讀軟體、螢幕放大軟體、語音手機】序次59至78（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "收音機或隨身聽",
+      "溝通及資訊輔具",
+      "視覺相關輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f011",
+    "name": "讀書機",
+    "system": "disability",
+    "category": "溝通及資訊輔具",
+    "subcategory": "視覺相關輔具",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（溝通及資訊輔具視覺相關輔具 序次59至78）",
+    "original_text": "【含收音機或隨身聽、讀書機、點字手錶、語音報時器、特製眼鏡鏡片、角膜疾病顯示器、擴視機、螢幕報讀軟體、螢幕放大軟體、語音手機】序次59至78（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "讀書機",
+      "溝通及資訊輔具",
+      "視覺相關輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f012",
+    "name": "點字手錶",
+    "system": "disability",
+    "category": "溝通及資訊輔具",
+    "subcategory": "視覺相關輔具",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（溝通及資訊輔具視覺相關輔具 序次59至78）",
+    "original_text": "【含收音機或隨身聽、讀書機、點字手錶、語音報時器、特製眼鏡鏡片、角膜疾病顯示器、擴視機、螢幕報讀軟體、螢幕放大軟體、語音手機】序次59至78（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "點字手錶",
+      "溝通及資訊輔具",
+      "視覺相關輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f013",
+    "name": "語音報時器",
+    "system": "disability",
+    "category": "溝通及資訊輔具",
+    "subcategory": "視覺相關輔具",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（溝通及資訊輔具視覺相關輔具 序次59至78）",
+    "original_text": "【含收音機或隨身聽、讀書機、點字手錶、語音報時器、特製眼鏡鏡片、角膜疾病顯示器、擴視機、螢幕報讀軟體、螢幕放大軟體、語音手機】序次59至78（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "語音報時器",
+      "溝通及資訊輔具",
+      "視覺相關輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f014",
+    "name": "特製眼鏡鏡片",
+    "system": "disability",
+    "category": "溝通及資訊輔具",
+    "subcategory": "視覺相關輔具",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（溝通及資訊輔具視覺相關輔具 序次59至78）",
+    "original_text": "【含收音機或隨身聽、讀書機、點字手錶、語音報時器、特製眼鏡鏡片、角膜疾病顯示器、擴視機、螢幕報讀軟體、螢幕放大軟體、語音手機】序次59至78（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "特製眼鏡鏡片",
+      "溝通及資訊輔具",
+      "視覺相關輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f015",
+    "name": "角膜疾病顯示器",
+    "system": "disability",
+    "category": "溝通及資訊輔具",
+    "subcategory": "視覺相關輔具",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（溝通及資訊輔具視覺相關輔具 序次59至78）",
+    "original_text": "【含收音機或隨身聽、讀書機、點字手錶、語音報時器、特製眼鏡鏡片、角膜疾病顯示器、擴視機、螢幕報讀軟體、螢幕放大軟體、語音手機】序次59至78（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "角膜疾病顯示器",
+      "溝通及資訊輔具",
+      "視覺相關輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f016",
+    "name": "擴視機",
+    "system": "disability",
+    "category": "溝通及資訊輔具",
+    "subcategory": "視覺相關輔具",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（溝通及資訊輔具視覺相關輔具 序次59至78）",
+    "original_text": "【含收音機或隨身聽、讀書機、點字手錶、語音報時器、特製眼鏡鏡片、角膜疾病顯示器、擴視機、螢幕報讀軟體、螢幕放大軟體、語音手機】序次59至78（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "擴視機",
+      "溝通及資訊輔具",
+      "視覺相關輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f017",
+    "name": "螢幕報讀軟體",
+    "system": "disability",
+    "category": "溝通及資訊輔具",
+    "subcategory": "視覺相關輔具",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（溝通及資訊輔具視覺相關輔具 序次59至78）",
+    "original_text": "【含收音機或隨身聽、讀書機、點字手錶、語音報時器、特製眼鏡鏡片、角膜疾病顯示器、擴視機、螢幕報讀軟體、螢幕放大軟體、語音手機】序次59至78（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "螢幕報讀軟體",
+      "溝通及資訊輔具",
+      "視覺相關輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f018",
+    "name": "螢幕放大軟體",
+    "system": "disability",
+    "category": "溝通及資訊輔具",
+    "subcategory": "視覺相關輔具",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（溝通及資訊輔具視覺相關輔具 序次59至78）",
+    "original_text": "【含收音機或隨身聽、讀書機、點字手錶、語音報時器、特製眼鏡鏡片、角膜疾病顯示器、擴視機、螢幕報讀軟體、螢幕放大軟體、語音手機】序次59至78（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "螢幕放大軟體",
+      "溝通及資訊輔具",
+      "視覺相關輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f019",
+    "name": "語音手機",
+    "system": "disability",
+    "category": "溝通及資訊輔具",
+    "subcategory": "視覺相關輔具",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（溝通及資訊輔具視覺相關輔具 序次59至78）",
+    "original_text": "【含收音機或隨身聽、讀書機、點字手錶、語音報時器、特製眼鏡鏡片、角膜疾病顯示器、擴視機、螢幕報讀軟體、螢幕放大軟體、語音手機】序次59至78（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "語音手機",
+      "溝通及資訊輔具",
+      "視覺相關輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f020",
+    "name": "傳真機",
+    "system": "disability",
+    "category": "溝通及資訊輔具",
+    "subcategory": "聽覺相關輔具",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（溝通及資訊輔具聽覺相關輔具 序次79至86）",
+    "original_text": "【含傳真機、行動手機、助聽器、電話擴音器】序次79至86（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "傳真機",
+      "溝通及資訊輔具",
+      "聽覺相關輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f021",
+    "name": "行動手機",
+    "system": "disability",
+    "category": "溝通及資訊輔具",
+    "subcategory": "聽覺相關輔具",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（溝通及資訊輔具聽覺相關輔具 序次79至86）",
+    "original_text": "【含傳真機、行動手機、助聽器、電話擴音器】序次79至86（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "行動手機",
+      "溝通及資訊輔具",
+      "聽覺相關輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f022",
+    "name": "助聽器",
+    "system": "disability",
+    "category": "溝通及資訊輔具",
+    "subcategory": "聽覺相關輔具",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（溝通及資訊輔具聽覺相關輔具 序次79至86）",
+    "original_text": "【含傳真機、行動手機、助聽器、電話擴音器】序次79至86（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "助聽器",
+      "溝通及資訊輔具",
+      "聽覺相關輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f023",
+    "name": "電話擴音器",
+    "system": "disability",
+    "category": "溝通及資訊輔具",
+    "subcategory": "聽覺相關輔具",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（溝通及資訊輔具聽覺相關輔具 序次79至86）",
+    "original_text": "【含傳真機、行動手機、助聽器、電話擴音器】序次79至86（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "電話擴音器",
+      "溝通及資訊輔具",
+      "聽覺相關輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f024",
+    "name": "電話閃光震動器",
+    "system": "disability",
+    "category": "溝通及資訊輔具",
+    "subcategory": "警示、指示及信號輔具",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（溝通及資訊輔具警示、指示及信號輔具 序次87至91）",
+    "original_text": "【含電話閃光震動器、門鈴閃光器、無線震動警示器、火警閃光警示器、個人衛星定位器】序次87至91（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "電話閃光震動器",
+      "溝通及資訊輔具",
+      "警示、指示及信號輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f025",
+    "name": "門鈴閃光器",
+    "system": "disability",
+    "category": "溝通及資訊輔具",
+    "subcategory": "警示、指示及信號輔具",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（溝通及資訊輔具警示、指示及信號輔具 序次87至91）",
+    "original_text": "【含電話閃光震動器、門鈴閃光器、無線震動警示器、火警閃光警示器、個人衛星定位器】序次87至91（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "門鈴閃光器",
+      "溝通及資訊輔具",
+      "警示、指示及信號輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f026",
+    "name": "無線震動警示器",
+    "system": "disability",
+    "category": "溝通及資訊輔具",
+    "subcategory": "警示、指示及信號輔具",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（溝通及資訊輔具警示、指示及信號輔具 序次87至91）",
+    "original_text": "【含電話閃光震動器、門鈴閃光器、無線震動警示器、火警閃光警示器、個人衛星定位器】序次87至91（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "無線震動警示器",
+      "溝通及資訊輔具",
+      "警示、指示及信號輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f027",
+    "name": "火警閃光警示器",
+    "system": "disability",
+    "category": "溝通及資訊輔具",
+    "subcategory": "警示、指示及信號輔具",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（溝通及資訊輔具警示、指示及信號輔具 序次87至91）",
+    "original_text": "【含電話閃光震動器、門鈴閃光器、無線震動警示器、火警閃光警示器、個人衛星定位器】序次87至91（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "火警閃光警示器",
+      "溝通及資訊輔具",
+      "警示、指示及信號輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f028",
+    "name": "個人衛星定位器",
+    "system": "disability",
+    "category": "溝通及資訊輔具",
+    "subcategory": "警示、指示及信號輔具",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（溝通及資訊輔具警示、指示及信號輔具 序次87至91）",
+    "original_text": "【含電話閃光震動器、門鈴閃光器、無線震動警示器、火警閃光警示器、個人衛星定位器】序次87至91（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "個人衛星定位器",
+      "溝通及資訊輔具",
+      "警示、指示及信號輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f029",
+    "name": "人工發聲器",
+    "system": "disability",
+    "category": "溝通及資訊輔具",
+    "subcategory": "發聲輔具",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（溝通及資訊輔具發聲輔具 序次92至93）",
+    "original_text": "【含人工發聲器】序次92至93（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "人工發聲器",
+      "溝通及資訊輔具",
+      "發聲輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f030",
+    "name": "無語音輸出之圖卡或設備",
+    "system": "disability",
+    "category": "溝通及資訊輔具",
+    "subcategory": "溝通相關輔具",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（溝通及資訊輔具溝通相關輔具 序次94至100）",
+    "original_text": "【含無語音輸出之圖卡或設備、低（高）階固定版面型語音溝通器、具掃描功能固定版面型語音溝通器、語音溝通軟體、動態版面型語音溝通器】序次94至100（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "無語音輸出之圖卡或設備",
+      "溝通及資訊輔具",
+      "溝通相關輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f031",
+    "name": "低（高）階固定版面型語音溝通器",
+    "system": "disability",
+    "category": "溝通及資訊輔具",
+    "subcategory": "溝通相關輔具",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（溝通及資訊輔具溝通相關輔具 序次94至100）",
+    "original_text": "【含無語音輸出之圖卡或設備、低（高）階固定版面型語音溝通器、具掃描功能固定版面型語音溝通器、語音溝通軟體、動態版面型語音溝通器】序次94至100（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "低",
+      "溝通及資訊輔具",
+      "溝通相關輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f032",
+    "name": "具掃描功能固定版面型語音溝通器",
+    "system": "disability",
+    "category": "溝通及資訊輔具",
+    "subcategory": "溝通相關輔具",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（溝通及資訊輔具溝通相關輔具 序次94至100）",
+    "original_text": "【含無語音輸出之圖卡或設備、低（高）階固定版面型語音溝通器、具掃描功能固定版面型語音溝通器、語音溝通軟體、動態版面型語音溝通器】序次94至100（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "具掃描功能固定版面型語音溝通器",
+      "溝通及資訊輔具",
+      "溝通相關輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f033",
+    "name": "語音溝通軟體",
+    "system": "disability",
+    "category": "溝通及資訊輔具",
+    "subcategory": "溝通相關輔具",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（溝通及資訊輔具溝通相關輔具 序次94至100）",
+    "original_text": "【含無語音輸出之圖卡或設備、低（高）階固定版面型語音溝通器、具掃描功能固定版面型語音溝通器、語音溝通軟體、動態版面型語音溝通器】序次94至100（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "語音溝通軟體",
+      "溝通及資訊輔具",
+      "溝通相關輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f034",
+    "name": "動態版面型語音溝通器",
+    "system": "disability",
+    "category": "溝通及資訊輔具",
+    "subcategory": "溝通相關輔具",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（溝通及資訊輔具溝通相關輔具 序次94至100）",
+    "original_text": "【含無語音輸出之圖卡或設備、低（高）階固定版面型語音溝通器、具掃描功能固定版面型語音溝通器、語音溝通軟體、動態版面型語音溝通器】序次94至100（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "動態版面型語音溝通器",
+      "溝通及資訊輔具",
+      "溝通相關輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f035",
+    "name": "特殊滑鼠",
+    "system": "disability",
+    "category": "溝通及資訊輔具",
+    "subcategory": "電腦輔具",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（溝通及資訊輔具電腦輔具 序次101至108）",
+    "original_text": "【含特殊滑鼠、鍵盤模擬器、替代性滑鼠或鍵盤介面、嘴控滑鼠、紅外線貼片感應滑鼠、陀螺動作感應滑鼠、眼控滑鼠、支撐固定器】序次101至108（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "特殊滑鼠",
+      "溝通及資訊輔具",
+      "電腦輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f036",
+    "name": "鍵盤模擬器",
+    "system": "disability",
+    "category": "溝通及資訊輔具",
+    "subcategory": "電腦輔具",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（溝通及資訊輔具電腦輔具 序次101至108）",
+    "original_text": "【含特殊滑鼠、鍵盤模擬器、替代性滑鼠或鍵盤介面、嘴控滑鼠、紅外線貼片感應滑鼠、陀螺動作感應滑鼠、眼控滑鼠、支撐固定器】序次101至108（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "鍵盤模擬器",
+      "溝通及資訊輔具",
+      "電腦輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f037",
+    "name": "替代性滑鼠或鍵盤介面",
+    "system": "disability",
+    "category": "溝通及資訊輔具",
+    "subcategory": "電腦輔具",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（溝通及資訊輔具電腦輔具 序次101至108）",
+    "original_text": "【含特殊滑鼠、鍵盤模擬器、替代性滑鼠或鍵盤介面、嘴控滑鼠、紅外線貼片感應滑鼠、陀螺動作感應滑鼠、眼控滑鼠、支撐固定器】序次101至108（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "替代性滑鼠或鍵盤介面",
+      "溝通及資訊輔具",
+      "電腦輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f038",
+    "name": "嘴控滑鼠",
+    "system": "disability",
+    "category": "溝通及資訊輔具",
+    "subcategory": "電腦輔具",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（溝通及資訊輔具電腦輔具 序次101至108）",
+    "original_text": "【含特殊滑鼠、鍵盤模擬器、替代性滑鼠或鍵盤介面、嘴控滑鼠、紅外線貼片感應滑鼠、陀螺動作感應滑鼠、眼控滑鼠、支撐固定器】序次101至108（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "嘴控滑鼠",
+      "溝通及資訊輔具",
+      "電腦輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f039",
+    "name": "紅外線貼片感應滑鼠",
+    "system": "disability",
+    "category": "溝通及資訊輔具",
+    "subcategory": "電腦輔具",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（溝通及資訊輔具電腦輔具 序次101至108）",
+    "original_text": "【含特殊滑鼠、鍵盤模擬器、替代性滑鼠或鍵盤介面、嘴控滑鼠、紅外線貼片感應滑鼠、陀螺動作感應滑鼠、眼控滑鼠、支撐固定器】序次101至108（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "紅外線貼片感應滑鼠",
+      "溝通及資訊輔具",
+      "電腦輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f040",
+    "name": "陀螺動作感應滑鼠",
+    "system": "disability",
+    "category": "溝通及資訊輔具",
+    "subcategory": "電腦輔具",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（溝通及資訊輔具電腦輔具 序次101至108）",
+    "original_text": "【含特殊滑鼠、鍵盤模擬器、替代性滑鼠或鍵盤介面、嘴控滑鼠、紅外線貼片感應滑鼠、陀螺動作感應滑鼠、眼控滑鼠、支撐固定器】序次101至108（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "陀螺動作感應滑鼠",
+      "溝通及資訊輔具",
+      "電腦輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f041",
+    "name": "眼控滑鼠",
+    "system": "disability",
+    "category": "溝通及資訊輔具",
+    "subcategory": "電腦輔具",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（溝通及資訊輔具電腦輔具 序次101至108）",
+    "original_text": "【含特殊滑鼠、鍵盤模擬器、替代性滑鼠或鍵盤介面、嘴控滑鼠、紅外線貼片感應滑鼠、陀螺動作感應滑鼠、眼控滑鼠、支撐固定器】序次101至108（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "眼控滑鼠",
+      "溝通及資訊輔具",
+      "電腦輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f042",
+    "name": "支撐固定器",
+    "system": "disability",
+    "category": "溝通及資訊輔具",
+    "subcategory": "電腦輔具",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（溝通及資訊輔具電腦輔具 序次101至108）",
+    "original_text": "【含特殊滑鼠、鍵盤模擬器、替代性滑鼠或鍵盤介面、嘴控滑鼠、紅外線貼片感應滑鼠、陀螺動作感應滑鼠、眼控滑鼠、支撐固定器】序次101至108（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "支撐固定器",
+      "溝通及資訊輔具",
+      "電腦輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f043",
+    "name": "語音血壓計",
+    "system": "disability",
+    "category": "身體、生理及生化試驗設備及材料",
+    "subcategory": "",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（身體、生理及生化試驗設備及材料 序次109）",
+    "original_text": "【含語音血壓計】序次109（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "語音血壓計",
+      "身體、生理及生化試驗設備及材料"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f044",
+    "name": "站立架",
+    "system": "disability",
+    "category": "身體、肌力及平衡訓練輔具",
+    "subcategory": "",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（身體、肌力及平衡訓練輔具 序次110至113）",
+    "original_text": "【含站立架、傾斜床】序次110至113（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "站立架",
+      "身體、肌力及平衡訓練輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f045",
+    "name": "傾斜床",
+    "system": "disability",
+    "category": "身體、肌力及平衡訓練輔具",
+    "subcategory": "",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（身體、肌力及平衡訓練輔具 序次110至113）",
+    "original_text": "【含站立架、傾斜床】序次110至113（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "傾斜床",
+      "身體、肌力及平衡訓練輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f046",
+    "name": "減壓座墊",
+    "system": "disability",
+    "category": "預防壓瘡輔具",
+    "subcategory": "",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（預防壓瘡輔具 序次114至122）",
+    "original_text": "【含減壓座墊、氣墊床】序次114至122（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "減壓座墊",
+      "預防壓瘡輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f047",
+    "name": "氣墊床",
+    "system": "disability",
+    "category": "預防壓瘡輔具",
+    "subcategory": "",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（預防壓瘡輔具 序次114至122）",
+    "original_text": "【含減壓座墊、氣墊床】序次114至122（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "氣墊床",
+      "預防壓瘡輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f048",
+    "name": "居家用照顧床",
+    "system": "disability",
+    "category": "住家家具及改裝組件",
+    "subcategory": "",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（住家家具及改裝組件 序次123至162）",
+    "original_text": "【含居家用照顧床、移位椅、升降桌、爬梯機、軌道式樓梯升降機、固定式動力垂直升降平台、居家無障礙修繕、居家無障礙輔具】序次123至162（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "居家用照顧床",
+      "住家家具及改裝組件"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f049",
+    "name": "移位椅",
+    "system": "disability",
+    "category": "住家家具及改裝組件",
+    "subcategory": "",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（住家家具及改裝組件 序次123至162）",
+    "original_text": "【含居家用照顧床、移位椅、升降桌、爬梯機、軌道式樓梯升降機、固定式動力垂直升降平台、居家無障礙修繕、居家無障礙輔具】序次123至162（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "移位椅",
+      "住家家具及改裝組件"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f050",
+    "name": "升降桌",
+    "system": "disability",
+    "category": "住家家具及改裝組件",
+    "subcategory": "",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（住家家具及改裝組件 序次123至162）",
+    "original_text": "【含居家用照顧床、移位椅、升降桌、爬梯機、軌道式樓梯升降機、固定式動力垂直升降平台、居家無障礙修繕、居家無障礙輔具】序次123至162（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "升降桌",
+      "住家家具及改裝組件"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f051",
+    "name": "爬梯機",
+    "system": "disability",
+    "category": "住家家具及改裝組件",
+    "subcategory": "",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（住家家具及改裝組件 序次123至162）",
+    "original_text": "【含居家用照顧床、移位椅、升降桌、爬梯機、軌道式樓梯升降機、固定式動力垂直升降平台、居家無障礙修繕、居家無障礙輔具】序次123至162（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "爬梯機",
+      "住家家具及改裝組件"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f052",
+    "name": "軌道式樓梯升降機",
+    "system": "disability",
+    "category": "住家家具及改裝組件",
+    "subcategory": "",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（住家家具及改裝組件 序次123至162）",
+    "original_text": "【含居家用照顧床、移位椅、升降桌、爬梯機、軌道式樓梯升降機、固定式動力垂直升降平台、居家無障礙修繕、居家無障礙輔具】序次123至162（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "軌道式樓梯升降機",
+      "住家家具及改裝組件"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f053",
+    "name": "固定式動力垂直升降平台",
+    "system": "disability",
+    "category": "住家家具及改裝組件",
+    "subcategory": "",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（住家家具及改裝組件 序次123至162）",
+    "original_text": "【含居家用照顧床、移位椅、升降桌、爬梯機、軌道式樓梯升降機、固定式動力垂直升降平台、居家無障礙修繕、居家無障礙輔具】序次123至162（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "固定式動力垂直升降平台",
+      "住家家具及改裝組件"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f054",
+    "name": "居家無障礙修繕",
+    "system": "disability",
+    "category": "住家家具及改裝組件",
+    "subcategory": "",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（住家家具及改裝組件 序次123至162）",
+    "original_text": "【含居家用照顧床、移位椅、升降桌、爬梯機、軌道式樓梯升降機、固定式動力垂直升降平台、居家無障礙修繕、居家無障礙輔具】序次123至162（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "居家無障礙修繕",
+      "住家家具及改裝組件"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f055",
+    "name": "居家無障礙輔具",
+    "system": "disability",
+    "category": "住家家具及改裝組件",
+    "subcategory": "",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（住家家具及改裝組件 序次123至162）",
+    "original_text": "【含居家用照顧床、移位椅、升降桌、爬梯機、軌道式樓梯升降機、固定式動力垂直升降平台、居家無障礙修繕、居家無障礙輔具】序次123至162（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "居家無障礙輔具",
+      "住家家具及改裝組件"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f056",
+    "name": "語音體重計",
+    "system": "disability",
+    "category": "個人照顧及保護輔具",
+    "subcategory": "",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（個人照顧及保護輔具 序次163至175）",
+    "original_text": "【含語音體重計、衣著用輔具等（OCR部分缺漏）】序次163至175（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "語音體重計",
+      "個人照顧及保護輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f057",
+    "name": "衣著用輔具",
+    "system": "disability",
+    "category": "個人照顧及保護輔具",
+    "subcategory": "",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（個人照顧及保護輔具 序次163至175）",
+    "original_text": "【含語音體重計、衣著用輔具等（OCR部分缺漏）】序次163至175（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "衣著用輔具",
+      "個人照顧及保護輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f058",
+    "name": "飲食用輔具",
+    "system": "disability",
+    "category": "居家生活相關輔具",
+    "subcategory": "",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（居家生活相關輔具 序次176至179）",
+    "original_text": "【含飲食用輔具、居家用輔具、物品裝置與處理輔具、藥品處理輔具】序次176至179（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "飲食用輔具",
+      "居家生活相關輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f059",
+    "name": "居家用輔具",
+    "system": "disability",
+    "category": "居家生活相關輔具",
+    "subcategory": "",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（居家生活相關輔具 序次176至179）",
+    "original_text": "【含飲食用輔具、居家用輔具、物品裝置與處理輔具、藥品處理輔具】序次176至179（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "居家用輔具",
+      "居家生活相關輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f060",
+    "name": "物品裝置與處理輔具",
+    "system": "disability",
+    "category": "居家生活相關輔具",
+    "subcategory": "",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（居家生活相關輔具 序次176至179）",
+    "original_text": "【含飲食用輔具、居家用輔具、物品裝置與處理輔具、藥品處理輔具】序次176至179（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "物品裝置與處理輔具",
+      "居家生活相關輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f061",
+    "name": "藥品處理輔具",
+    "system": "disability",
+    "category": "居家生活相關輔具",
+    "subcategory": "",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（居家生活相關輔具 序次176至179）",
+    "original_text": "【含飲食用輔具、居家用輔具、物品裝置與處理輔具、藥品處理輔具】序次176至179（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "藥品處理輔具",
+      "居家生活相關輔具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f062",
+    "name": "義肢及矯具",
+    "system": "disability",
+    "category": "矯具及義具",
+    "subcategory": "",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（矯具及義具 序次180至239）",
+    "original_text": "【含義肢及矯具、義肢組件、量身特製鞋、透明壓力面膜、假髮、義眼、義鼻、義耳、義顎等】序次180至239（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "義肢及矯具",
+      "矯具及義具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f063",
+    "name": "義肢組件",
+    "system": "disability",
+    "category": "矯具及義具",
+    "subcategory": "",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（矯具及義具 序次180至239）",
+    "original_text": "【含義肢及矯具、義肢組件、量身特製鞋、透明壓力面膜、假髮、義眼、義鼻、義耳、義顎等】序次180至239（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "義肢組件",
+      "矯具及義具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f064",
+    "name": "量身特製鞋",
+    "system": "disability",
+    "category": "矯具及義具",
+    "subcategory": "",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（矯具及義具 序次180至239）",
+    "original_text": "【含義肢及矯具、義肢組件、量身特製鞋、透明壓力面膜、假髮、義眼、義鼻、義耳、義顎等】序次180至239（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "量身特製鞋",
+      "矯具及義具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f065",
+    "name": "透明壓力面膜",
+    "system": "disability",
+    "category": "矯具及義具",
+    "subcategory": "",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（矯具及義具 序次180至239）",
+    "original_text": "【含義肢及矯具、義肢組件、量身特製鞋、透明壓力面膜、假髮、義眼、義鼻、義耳、義顎等】序次180至239（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "透明壓力面膜",
+      "矯具及義具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f066",
+    "name": "假髮",
+    "system": "disability",
+    "category": "矯具及義具",
+    "subcategory": "",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（矯具及義具 序次180至239）",
+    "original_text": "【含義肢及矯具、義肢組件、量身特製鞋、透明壓力面膜、假髮、義眼、義鼻、義耳、義顎等】序次180至239（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "假髮",
+      "矯具及義具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f067",
+    "name": "義眼",
+    "system": "disability",
+    "category": "矯具及義具",
+    "subcategory": "",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（矯具及義具 序次180至239）",
+    "original_text": "【含義肢及矯具、義肢組件、量身特製鞋、透明壓力面膜、假髮、義眼、義鼻、義耳、義顎等】序次180至239（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "義眼",
+      "矯具及義具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f068",
+    "name": "義鼻",
+    "system": "disability",
+    "category": "矯具及義具",
+    "subcategory": "",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（矯具及義具 序次180至239）",
+    "original_text": "【含義肢及矯具、義肢組件、量身特製鞋、透明壓力面膜、假髮、義眼、義鼻、義耳、義顎等】序次180至239（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "義鼻",
+      "矯具及義具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f069",
+    "name": "義耳",
+    "system": "disability",
+    "category": "矯具及義具",
+    "subcategory": "",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（矯具及義具 序次180至239）",
+    "original_text": "【含義肢及矯具、義肢組件、量身特製鞋、透明壓力面膜、假髮、義眼、義鼻、義耳、義顎等】序次180至239（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "義耳",
+      "矯具及義具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f070",
+    "name": "義顎",
+    "system": "disability",
+    "category": "矯具及義具",
+    "subcategory": "",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（矯具及義具 序次180至239）",
+    "original_text": "【含義肢及矯具、義肢組件、量身特製鞋、透明壓力面膜、假髮、義眼、義鼻、義耳、義顎等】序次180至239（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "義顎",
+      "矯具及義具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f071",
+    "name": "混和義（OCR 部分缺漏）",
+    "system": "disability",
+    "category": "矯具及義具",
+    "subcategory": "",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（矯具及義具 序次180至239）",
+    "original_text": "【含義肢及矯具、義肢組件、量身特製鞋、透明壓力面膜、假髮、義眼、義鼻、義耳、義顎等】序次180至239（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "混和義",
+      "矯具及義具"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f072",
+    "name": "人工電子耳",
+    "system": "disability",
+    "category": "其他",
+    "subcategory": "",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（其他 序次240至242）",
+    "original_text": "【含人工電子耳、人工電子耳語言處理設備更新、人工電子耳配件】序次240至242（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "人工電子耳",
+      "其他"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f073",
+    "name": "人工電子耳語言處理設備更新",
+    "system": "disability",
+    "category": "其他",
+    "subcategory": "",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（其他 序次240至242）",
+    "original_text": "【含人工電子耳、人工電子耳語言處理設備更新、人工電子耳配件】序次240至242（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "人工電子耳語言處理設備更新",
+      "其他"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  },
+  {
+    "id": "dis-f074",
+    "name": "人工電子耳配件",
+    "system": "disability",
+    "category": "其他",
+    "subcategory": "",
+    "subsidy_amount": "",
+    "renewal_years": "",
+    "need_assessment": false,
+    "assessment_required": [
+      "待確認（甲類/乙類/不需評估依基準表逐項次而定）"
+    ],
+    "required_documents": [],
+    "applicable_conditions": [],
+    "effective_date": "112-01-01",
+    "source_law": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第四條附表：身心障礙者輔具費用補助基準表",
+    "citation": "身心障礙者輔具費用補助基準表（其他 序次240至242）",
+    "original_text": "【含人工電子耳、人工電子耳語言處理設備更新、人工電子耳配件】序次240至242（原PDF無文字層，本欄文字以OCR擷取自掃描頁，可能含辨識誤差，正式引用請對照原PDF）",
+    "keywords": [
+      "人工電子耳配件",
+      "其他"
+    ],
+    "manual_review": true,
+    "review_reason": "家族／品項層級條目（取自基準表目次）；個別項次之補助金額、最低使用年限與評估分類須依基準表逐項人工補正",
+    "level": "family"
+  }
+]

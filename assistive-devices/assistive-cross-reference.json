@@ -1,0 +1,109 @@
+{
+  "_note": "跨制度對照。僅在法規明確存在或名稱高度一致時建立關聯；無法確認者 manual_review=true。longcare_related 指向 knowledge/regulations 之條文/碼別或 knowledge/practical 主題。",
+  "system_level_links": [
+    {
+      "relationship": "身障輔具 ↔ 醫療輔具（補助項次合併計算）",
+      "basis": "醫療復健費用及醫療輔具補助標準 備註2：本表醫療輔具項目與身心障礙者輔具補助辦法之生活輔具項目合併計算，每人每二年以補助四項為原則；身心障礙者輔具費用補助辦法第七條亦定明依醫療輔具補助取得者併入項次計算。",
+      "disability_related": [
+        "身心障礙者輔具費用補助辦法 全表"
+      ],
+      "medical_related": [
+        "醫療復健費用及醫療輔具補助標準 全表"
+      ],
+      "longcare_related": [],
+      "manual_review": false
+    },
+    {
+      "relationship": "身障輔具 ↔ 長照輔具（不得重複申請／準用）",
+      "basis": "長期照顧服務申請及給付辦法第十條第三項（領有身心障礙證明者相同輔具未達最低使用年限不得重複申請）、第二十條第一項（長照輔具及居家無障礙除另有規定外準用身心障礙者輔具費用補助辦法）。",
+      "disability_related": [
+        "身心障礙者輔具費用補助辦法 全表"
+      ],
+      "medical_related": [],
+      "longcare_related": [
+        "regulations:article-10",
+        "regulations:article-20",
+        "practical:topic-016-身障輔具"
+      ],
+      "manual_review": false
+    }
+  ],
+  "item_level_links": [
+    {
+      "item_name": "人工電子耳",
+      "disability_related": [
+        "dis-f... 人工電子耳（其他類 序次240-242）"
+      ],
+      "medical_related": [
+        "med-r001 人工電子耳植入手術費用"
+      ],
+      "longcare_related": [],
+      "basis": "名稱一致：身障基準表『其他』類含人工電子耳；醫療復健費用含人工電子耳植入手術費用。屬同一裝置之不同補助面向。",
+      "manual_review": false
+    },
+    {
+      "item_name": "居家照顧床 / 居家用照顧床",
+      "disability_related": [
+        "dis-f... 居家用照顧床（住家家具及改裝組件）"
+      ],
+      "medical_related": [],
+      "longcare_related": [
+        "regulations:appendix-04-1 EI04 居家照顧床類"
+      ],
+      "basis": "名稱高度一致；惟身障為購置補助、長照EI04為智慧科技輔具租賃，制度與給付方式不同。",
+      "manual_review": true
+    },
+    {
+      "item_name": "移位輔具 / 移位機",
+      "disability_related": [
+        "dis-f... 移位輔具（個人行動輔具）"
+      ],
+      "medical_related": [],
+      "longcare_related": [
+        "regulations:appendix-04-1 EI01 移位類"
+      ],
+      "basis": "名稱高度一致；長照EI01為智慧科技輔具租賃，須確認是否為同一品項。",
+      "manual_review": true
+    },
+    {
+      "item_name": "居家無障礙修繕",
+      "disability_related": [
+        "dis-f... 居家無障礙修繕（住家家具及改裝組件）"
+      ],
+      "medical_related": [],
+      "longcare_related": [
+        "regulations:appendix-04 F碼（居家無障礙環境改善服務）",
+        "practical:topic-014-居家無障礙改善"
+      ],
+      "basis": "名稱高度一致（居家無障礙）；長照F碼與身障居家無障礙修繕分屬不同制度，項目對應須逐項確認。",
+      "manual_review": true
+    },
+    {
+      "item_name": "氣墊床 / 減壓座墊",
+      "disability_related": [
+        "dis-f... 氣墊床（預防壓瘡輔具）",
+        "dis-f... 減壓座墊（預防壓瘡輔具）"
+      ],
+      "medical_related": [],
+      "longcare_related": [
+        "regulations:appendix-04 E碼（輔具服務，是否含預防壓瘡輔具待確認）"
+      ],
+      "basis": "長照E碼是否涵蓋預防壓瘡輔具無法由現有資料庫確認。",
+      "manual_review": true
+    },
+    {
+      "item_name": "輪椅",
+      "disability_related": [
+        "dis-i004 輪椅－非輕量化量產型",
+        "dis-f... 手動輪椅",
+        "dis-f... 電動輪椅"
+      ],
+      "medical_related": [],
+      "longcare_related": [
+        "regulations:appendix-04 E碼（是否含輪椅待確認）"
+      ],
+      "basis": "長照E碼是否涵蓋輪椅無法由現有資料庫確認。",
+      "manual_review": true
+    }
+  ]
+}

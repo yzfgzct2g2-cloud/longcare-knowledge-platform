@@ -1,0 +1,145 @@
+{
+  "_note": "輔具分類對照。完全依法規原始分類建立，未自行創造分類。disability 之分類與序次範圍取自『身心障礙者輔具費用補助基準表』附表目次（與補助辦法第二條輔具類別一致）；medical 之分類取自『醫療復健費用及醫療輔具補助標準』附表結構。括號內裝置名稱為法規目次原文所列代表項目，非自行歸納。",
+  "source_laws": {
+    "disability": "身心障礙者輔具費用補助辦法（111.10.20修正，112.01.01施行）第二條、第四條附表（身心障礙者輔具費用補助基準表）",
+    "medical": "身心障礙者醫療復健費用及醫療輔具補助標準（附表：醫療復健費用及醫療輔具補助標準）"
+  },
+  "categories": [
+    {
+      "system": "disability",
+      "category": "個人行動輔具",
+      "subcategory": "",
+      "item_no_range": "1至58",
+      "representative_devices": ["推車", "手動輪椅", "電動輪椅", "輪椅附加功能及配件", "坐位系統", "電動代步車", "特製汽機車改裝", "步行輔具", "移位輔具", "視障用白手杖或杖頭"],
+      "source": "身心障礙者輔具費用補助基準表 目次"
+    },
+    {
+      "system": "disability",
+      "category": "溝通及資訊輔具",
+      "subcategory": "視覺相關輔具",
+      "item_no_range": "59至78",
+      "representative_devices": ["收音機或隨身聽", "讀書機", "點字手錶", "語音報時器", "特製眼鏡鏡片", "角膜疾病顯示器", "擴視機", "螢幕報讀軟體", "螢幕放大軟體", "語音手機"],
+      "source": "身心障礙者輔具費用補助基準表 目次（一）"
+    },
+    {
+      "system": "disability",
+      "category": "溝通及資訊輔具",
+      "subcategory": "聽覺相關輔具",
+      "item_no_range": "79至86",
+      "representative_devices": ["傳真機", "行動手機", "助聽器", "電話擴音器"],
+      "source": "身心障礙者輔具費用補助基準表 目次（二）"
+    },
+    {
+      "system": "disability",
+      "category": "溝通及資訊輔具",
+      "subcategory": "警示、指示及信號輔具",
+      "item_no_range": "87至91",
+      "representative_devices": ["電話閃光震動器", "門鈴閃光器", "無線震動警示器", "火警閃光警示器", "個人衛星定位器"],
+      "source": "身心障礙者輔具費用補助基準表 目次（三）"
+    },
+    {
+      "system": "disability",
+      "category": "溝通及資訊輔具",
+      "subcategory": "發聲輔具",
+      "item_no_range": "92至93",
+      "representative_devices": ["人工發聲器"],
+      "source": "身心障礙者輔具費用補助基準表 目次（四）"
+    },
+    {
+      "system": "disability",
+      "category": "溝通及資訊輔具",
+      "subcategory": "溝通相關輔具",
+      "item_no_range": "94至100",
+      "representative_devices": ["無語音輸出之圖卡或設備", "低（高）階固定版面型語音溝通器", "具掃描功能固定版面型語音溝通器", "語音溝通軟體", "動態版面型語音溝通器"],
+      "source": "身心障礙者輔具費用補助基準表 目次（五）"
+    },
+    {
+      "system": "disability",
+      "category": "溝通及資訊輔具",
+      "subcategory": "電腦輔具",
+      "item_no_range": "101至108",
+      "representative_devices": ["特殊滑鼠", "鍵盤模擬器", "替代性滑鼠或鍵盤介面", "嘴控滑鼠", "紅外線貼片感應滑鼠", "陀螺動作感應滑鼠", "眼控滑鼠", "支撐固定器"],
+      "source": "身心障礙者輔具費用補助基準表 目次（六）"
+    },
+    {
+      "system": "disability",
+      "category": "身體、生理及生化試驗設備及材料",
+      "subcategory": "",
+      "item_no_range": "109",
+      "representative_devices": ["語音血壓計"],
+      "source": "身心障礙者輔具費用補助基準表 目次"
+    },
+    {
+      "system": "disability",
+      "category": "身體、肌力及平衡訓練輔具",
+      "subcategory": "",
+      "item_no_range": "110至113",
+      "representative_devices": ["站立架", "傾斜床"],
+      "source": "身心障礙者輔具費用補助基準表 目次"
+    },
+    {
+      "system": "disability",
+      "category": "預防壓瘡輔具",
+      "subcategory": "",
+      "item_no_range": "114至122",
+      "representative_devices": ["減壓座墊", "氣墊床"],
+      "source": "身心障礙者輔具費用補助基準表 目次"
+    },
+    {
+      "system": "disability",
+      "category": "住家家具及改裝組件",
+      "subcategory": "",
+      "item_no_range": "123至162",
+      "representative_devices": ["居家用照顧床", "移位椅", "升降桌", "爬梯機", "軌道式樓梯升降機", "固定式動力垂直升降平台", "居家無障礙修繕", "居家無障礙輔具"],
+      "source": "身心障礙者輔具費用補助基準表 目次"
+    },
+    {
+      "system": "disability",
+      "category": "個人照顧及保護輔具",
+      "subcategory": "",
+      "item_no_range": "163至175",
+      "representative_devices": ["語音體重計", "衣著用輔具"],
+      "source": "身心障礙者輔具費用補助基準表 目次（OCR 部分裝置名稱缺漏，待人工補正）"
+    },
+    {
+      "system": "disability",
+      "category": "居家生活相關輔具",
+      "subcategory": "",
+      "item_no_range": "176至179",
+      "representative_devices": ["飲食用輔具", "居家用輔具", "物品裝置與處理輔具", "藥品處理輔具"],
+      "source": "身心障礙者輔具費用補助基準表 目次"
+    },
+    {
+      "system": "disability",
+      "category": "矯具及義具",
+      "subcategory": "",
+      "item_no_range": "180至239",
+      "representative_devices": ["義肢及矯具", "義肢組件", "量身特製鞋", "透明壓力面膜", "假髮", "義眼", "義鼻", "義耳", "義顎", "混和義（OCR 部分缺漏）"],
+      "source": "身心障礙者輔具費用補助基準表 目次"
+    },
+    {
+      "system": "disability",
+      "category": "其他",
+      "subcategory": "",
+      "item_no_range": "240至242",
+      "representative_devices": ["人工電子耳", "人工電子耳語言處理設備更新", "人工電子耳配件"],
+      "source": "身心障礙者輔具費用補助基準表 目次"
+    },
+    {
+      "system": "medical",
+      "category": "醫療復健費用",
+      "subcategory": "",
+      "item_no_range": "",
+      "representative_devices": ["人工電子耳植入手術費用", "開具診斷證明書費用", "開具醫療輔具評估報告費用"],
+      "source": "醫療復健費用及醫療輔具補助標準 附表 一"
+    },
+    {
+      "system": "medical",
+      "category": "醫療輔具",
+      "subcategory": "",
+      "item_no_range": "編碼1至22",
+      "representative_devices": ["電動拍痰器", "抽痰機", "化痰機（噴霧器）", "血氧偵測（血氧機）", "氧氣製造機", "咳嗽輔助器（Cough Assist Machine）", "單相陽壓呼吸器（CPAP）", "雙相陽壓呼吸器（BiPAP）", "UPS不斷電系統", "壓力衣（A至K款）", "矽膠片"],
+      "source": "醫療復健費用及醫療輔具補助標準 附表 二"
+    }
+  ]
+}

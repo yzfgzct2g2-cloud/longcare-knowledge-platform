@@ -1,0 +1,32 @@
+{
+  "topic": "復能服務",
+  "source_type": "practical_summary",
+  "aliases": [
+    "復能",
+    "復能照護",
+    "IADLs復能",
+    "ADLs復能",
+    "CA07"
+  ],
+  "summary": "復能服務屬專業服務（C碼）之一，照顧組合為附表四之CA07「IADLs復能、ADLs復能照護」，目標為提升或維持長照給付對象之自主生活能力（日常生活活動 ADLs 與工具性日常生活活動 IADLs）。其與其他照顧及專業服務共用額度（附表二），並由符合中央主管機關公告資格及完成認可訓練之長照服務人員或團隊提供（第十八條第四款）。",
+  "common_questions": [
+    "復能服務是什麼",
+    "復能的照顧組合碼是哪一個",
+    "復能服務由誰提供",
+    "ADLs和IADLs復能差在哪"
+  ],
+  "related_articles": [8, 16, 18],
+  "related_codes": ["CA07"],
+  "related_appendices": ["2", "4"],
+  "related_topics": ["專業服務", "營養照護", "吞嚥訓練"],
+  "keywords": [
+    "復能",
+    "復能照護",
+    "IADLs",
+    "ADLs",
+    "自主生活能力",
+    "專業服務",
+    "CA07"
+  ],
+  "law_source_note": "summary 依據 appendix-04（CA07 復能照護）、article-08、article-18（專業服務人員資格）。"
+}

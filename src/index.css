@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', 'Noto Sans TC', -apple-system, BlinkMacSystemFont, 'Segoe UI',
+    'Microsoft JhengHei', sans-serif;
+  background: #f8fafc;
+  color: #1e293b;
+}
+
+/* 法規長文排版 */
+.regulation-text {
+  line-height: 1.9;
+  letter-spacing: 0.01em;
+  white-space: pre-wrap;
+  word-break: break-word;
+}

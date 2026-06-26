@@ -2,6 +2,24 @@
 
 本專案的所有重要變更皆記錄於此檔。
 
+## [V1.4.1] - 2026-06-26 — Practical Knowledge Enhancement
+
+### 新增
+- 實務主題知識欄位（單一資料來源，直接升級 knowledge/practical/topics/）：can_use、cannot_use、conditional_use、quota_rules、compatibility、restrictions、common_mistakes、law_basis、manual_review。
+- 新主題 topic-021「協助沐浴及洗頭」（BA07）。
+- TopicDetailPage 知識頁版面與顏色標示（綠＝可使用、黃＝有條件、紅＝不得使用／限制、灰＝額度／法規依據），每筆附法規依據 chip。
+
+### 變更
+- `src/data/practical.ts` 型別擴充並透傳知識欄位。
+- 升級 5 個高價值主題：外籍看護、協助沐浴及洗頭（BA07）、交通接送、日間照顧、喘息服務。
+
+### 修正（知識正確性）
+- 外籍看護移除無法規依據之 related_codes：BA08、BA09、BA09a（共 3 筆）。
+- 所有「可以使用／不得使用／限制」均要求法規依據；無依據者不顯示、不推論；無法確認則 manual_review=true。
+
+### 原則
+- 不開發 AA01、不啟用 AI、不建後端；不修改 knowledge/regulations、knowledge/assistive-devices 原始 JSON（本版僅升級 knowledge/practical/topics）。
+
 ## [V1.4.0] - 2026-06-26
 
 ### 新增

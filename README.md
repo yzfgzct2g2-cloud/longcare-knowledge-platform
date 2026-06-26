@@ -74,6 +74,14 @@ npm run typecheck  # 型別檢查
 
 ## Version History
 
+### V1.4.1 — Practical Knowledge Enhancement
+- 將高價值實務主題由「搜尋結果整理」升級為「實務知識頁」
+- 新增主題知識欄位：can_use／cannot_use／conditional_use／quota_rules／compatibility／restrictions／common_mistakes／law_basis／manual_review
+- 每一條「可以使用／不得使用／限制」均附法規依據（article／appendix／code／citation），無依據不顯示、不推論
+- TopicDetailPage 重新排版並加入顏色標示（綠＝可使用、黃＝有條件、紅＝限制、灰＝法規依據）
+- 修正錯誤關聯：外籍看護移除無依據之 BA08／BA09／BA09a；新增 BA07（協助沐浴及洗頭）主題
+- 本版升級對象：外籍看護、BA07 協助沐浴及洗頭、交通接送、日間照顧、喘息服務
+
 ### V1.4.0
 - 新增實務主題列表頁 `/topics`
 - 新增實務主題詳情頁 `/topics/:topicId`（採檔名 id，如 topic-001）

@@ -15,6 +15,26 @@
     "聘外籍看護可以用日間照顧嗎",
     "日照的額度怎麼算"
   ],
+  "can_use": [
+    { "value": "日間照顧服務（BB 碼，全日／半日，第一型至第七型；BB01–BB14）", "law_basis": "第八條第一項第二款；附表四 BB 碼" }
+  ],
+  "cannot_use": [],
+  "conditional_use": [
+    { "value": "聘僱外籍看護者於照顧及專業服務額度 30% 內亦得使用日間照顧", "condition": "屬第十條第一項所定聘僱外國人等對象", "law_basis": "第十條第二項" },
+    { "value": "服務人員資格", "condition": "由完成長期照顧服務人員訓練認證繼續教育及登錄之照顧服務人員提供", "law_basis": "第十八條第二款" }
+  ],
+  "quota_rules": [
+    { "rule": "與居家照顧、家庭托顧、專業服務共用「照顧及專業服務」額度，依長照需要等級規定於附表二", "law_basis": "第七條第三項；第八條第一項；附表二" }
+  ],
+  "compatibility": [
+    { "value": "屬「照顧及專業服務」項目，與交通接送、輔具額度分立、不得互相流用", "law_basis": "第七條第四項" }
+  ],
+  "restrictions": [],
+  "common_mistakes": [
+    { "misconception": "聘外籍看護就完全不能使用日間照顧。", "fact": "115年修正後，30% 額度得用於附表四 BA 碼以外之照顧組合，包含日間照顧。", "law_basis": "第十條第二項" }
+  ],
+  "law_basis": ["第七條", "第八條第一項第二款", "第十條第二項", "第十八條第二款", "附表二", "附表四"],
+  "manual_review": false,
   "related_articles": [7, 8, 10, 18],
   "related_codes": [
     "BB01", "BB02", "BB03", "BB04", "BB05", "BB06", "BB07",
@@ -31,5 +51,5 @@
     "BB碼",
     "照顧服務人員"
   ],
-  "law_source_note": "summary 依據 article-08（照顧及專業服務內容）、article-18（人員資格）、article-10（外籍看護額度放寬）、appendix-04（BB 碼）、appendix-02（額度）。"
+  "law_source_note": "summary 與知識欄位依據 article-08第一項第二款（內容）、article-18第二款（人員資格）、article-10第二項（外籍看護額度放寬）、article-07（額度不流用）、appendix-04（BB 碼）、appendix-02（額度）。"
 }

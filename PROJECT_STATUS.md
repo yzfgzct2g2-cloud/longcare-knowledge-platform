@@ -87,3 +87,19 @@ React/Vite法規查詢頁
 - 保留純前端架構
 - 不啟用 AI
 - 不啟用後端
+
+## Version 1.4.1（Practical Knowledge Enhancement）
+
+完成日期：
+
+2026-06-26
+
+完成內容：
+
+- 將高價值主題升級為實務知識頁
+- 新增知識欄位：can_use / cannot_use / conditional_use / quota_rules / compatibility / restrictions / common_mistakes / law_basis / manual_review
+- 每筆可使用／不得使用／限制均附法規依據，無依據不顯示
+- TopicDetailPage 重排版＋顏色標示
+- 修正外籍看護錯誤關聯（移除 BA08/BA09/BA09a）；新增 BA07 協助沐浴及洗頭主題
+- 升級主題：外籍看護、BA07 協助沐浴及洗頭、交通接送、日間照顧、喘息服務
+- 維持單一資料來源（直接升級 knowledge/practical/topics）

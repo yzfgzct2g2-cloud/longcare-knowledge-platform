@@ -5,7 +5,37 @@
 import { appendixLabel, articleLabel } from '../lib/format'
 import { getAppendix, getArticle, getCodeItem } from './loaders'
 
-interface RawTopic {
+// ---- V1.4.1 實務知識欄位（皆需附 law_basis；缺則不顯示） ----
+export interface UseEntry {
+  value: string
+  law_basis: string
+  condition?: string
+  note?: string
+}
+export interface QuotaEntry {
+  rule: string
+  law_basis: string
+  note?: string
+}
+export interface MistakeEntry {
+  misconception: string
+  fact: string
+  law_basis: string
+}
+
+interface KnowledgeFields {
+  can_use?: UseEntry[]
+  cannot_use?: UseEntry[]
+  conditional_use?: UseEntry[]
+  quota_rules?: QuotaEntry[]
+  compatibility?: UseEntry[]
+  restrictions?: UseEntry[]
+  common_mistakes?: MistakeEntry[]
+  law_basis?: string[]
+  manual_review?: boolean
+}
+
+interface RawTopic extends KnowledgeFields {
   topic: string
   source_type?: string
   aliases?: string[]
@@ -20,7 +50,7 @@ interface RawTopic {
   needs_manual_supplement?: boolean
 }
 
-export interface PracticalTopic {
+export interface PracticalTopic extends KnowledgeFields {
   id: string
   topic: string
   source_type: string
@@ -84,6 +114,15 @@ export const practicalTopics: PracticalTopic[] = Object.entries(topicModules)
       keywords: data.keywords ?? [],
       law_source_note: data.law_source_note ?? '',
       needs_manual_supplement: data.needs_manual_supplement ?? false,
+      can_use: data.can_use,
+      cannot_use: data.cannot_use,
+      conditional_use: data.conditional_use,
+      quota_rules: data.quota_rules,
+      compatibility: data.compatibility,
+      restrictions: data.restrictions,
+      common_mistakes: data.common_mistakes,
+      law_basis: data.law_basis,
+      manual_review: data.manual_review,
     }
   })
   .sort((a, b) => a.id.localeCompare(b.id, undefined, { numeric: true }))

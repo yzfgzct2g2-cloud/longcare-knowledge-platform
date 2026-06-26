@@ -1,0 +1,40 @@
+{
+  "topic": "協助沐浴及洗頭",
+  "source_type": "practical_summary",
+  "aliases": ["BA07", "沐浴", "洗澡", "協助沐浴", "洗頭", "沐浴服務"],
+  "summary": "「協助沐浴及洗頭」為附表四照顧及專業服務之居家照顧服務組合（BA07，第八條第一項第一款），給付價格325元／原民區或離島支付價格385元。內容包含協助或引導至浴間、穿脫衣服、全身淋浴／坐浴或盆浴、洗頭、排泄物清理（含當次更換尿片、倒尿袋）、浴間之事前準備及事後清理（附表四－BA07）。",
+  "common_questions": [
+    "協助沐浴及洗頭包含哪些內容",
+    "BA07 可以和 BA01、BA23 同一時段一起申報嗎",
+    "床上擦澡算 BA07 嗎",
+    "協助沐浴的給付價格是多少"
+  ],
+  "can_use": [
+    { "value": "協助或引導至浴間、穿脫衣服、全身淋浴/坐浴/盆浴、洗頭、排泄物清理、浴間事前準備及事後清理", "law_basis": "附表四－BA07 一" }
+  ],
+  "cannot_use": [],
+  "conditional_use": [
+    { "value": "洗頭及排泄物清理", "condition": "個案如無需求得不執行", "law_basis": "附表四－BA07 二" },
+    { "value": "得先行臨時提供服務", "condition": "應長照給付對象突發性或臨時性照顧需要先行提供，服務後立即通知擬訂照顧計畫之社區整合型服務中心並經照管中心確認", "law_basis": "附表四－BA07 六；第二十一條" }
+  ],
+  "quota_rules": [
+    { "rule": "給付價格 325 元／原民區或離島支付價格 385 元", "law_basis": "附表四－BA07" }
+  ],
+  "compatibility": [
+    { "value": "床上沐浴或原床泡澡比照列入本組合", "law_basis": "附表四－BA07 四" }
+  ],
+  "restrictions": [
+    { "value": "本組合係指於浴間（或類似場所）執行之項目；床上擦澡屬 BA01，不屬本組合", "law_basis": "附表四－BA07 四" }
+  ],
+  "common_mistakes": [
+    { "misconception": "同一時段可同時申報 BA07 與 BA01、BA23。", "fact": "BA07 已包含 BA01「基本身體清潔」、BA23「協助洗頭」之內容，同一時段不可併同申報 BA01 及 BA23。", "law_basis": "附表四－BA07 五" }
+  ],
+  "law_basis": ["附表四－BA07", "第八條第一項第一款", "第二十一條"],
+  "manual_review": false,
+  "related_articles": [8, 21],
+  "related_codes": ["BA07", "BA01", "BA23"],
+  "related_appendices": ["4"],
+  "related_topics": ["外籍看護"],
+  "keywords": ["協助沐浴及洗頭", "BA07", "沐浴", "洗澡", "洗頭", "居家照顧服務", "浴間"],
+  "law_source_note": "依 appendix-04 BA07（協助沐浴及洗頭）原文逐項整理，及 article-08（居家照顧服務）、article-21（臨時服務）。related_codes 之 BA01、BA23 係 BA07 原文第五點明文併入與不可重複申報者，故保留。"
+}

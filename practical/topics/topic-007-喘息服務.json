@@ -13,6 +13,35 @@
     "什麼情況不能用喘息服務",
     "沒有家庭照顧者可以用喘息嗎"
   ],
+  "can_use": [
+    { "value": "日間照顧中心喘息服務—全日（GA03）／半日（GA04）", "law_basis": "第七條第二項第二款；附表四－GA03、GA04" },
+    { "value": "機構住宿式喘息服務（GA05）", "law_basis": "附表四－GA05" },
+    { "value": "小規模多機能服務—夜間喘息（GA06）", "law_basis": "附表四－GA06" },
+    { "value": "巷弄長照站喘息服務（GA07）", "law_basis": "附表四－GA07" },
+    { "value": "居家喘息服務（GA09）", "law_basis": "附表四－GA09" }
+  ],
+  "cannot_use": [
+    { "value": "無本法第三條第三款所定家庭照顧者或其他可協助照顧之人者，不予給付喘息服務額度", "law_basis": "第十一條第一款" },
+    { "value": "依身心障礙者權益保障法第五十一條第一項接受臨時及短期照顧服務之人，不予給付", "law_basis": "第十一條第二款" },
+    { "value": "其他法令另有規定者，不予給付", "law_basis": "第十一條第三款" }
+  ],
+  "conditional_use": [
+    { "value": "服務人員資格", "condition": "由完成長期照顧服務人員訓練認證繼續教育及登錄之照顧服務人員提供", "law_basis": "第十八條第五款" }
+  ],
+  "quota_rules": [
+    { "rule": "屬家庭照顧者支持服務，額度與個人長照服務分立、不得互相流用，依長照需要等級規定於附表二（年額）", "law_basis": "第七條第二項第二款、第四項；附表二" }
+  ],
+  "compatibility": [
+    { "value": "喘息額度與個人長照服務（照顧及專業服務／交通接送／輔具）分立計算", "law_basis": "第七條第四項" }
+  ],
+  "restrictions": [
+    { "value": "下列情形不予給付：無家庭照顧者或其他可協助照顧之人、依身障權益保障法第五十一條第一項接受臨時及短期照顧服務、其他法令另有規定者", "law_basis": "第十一條" }
+  ],
+  "common_mistakes": [
+    { "misconception": "任何長照給付對象都能領喘息服務。", "fact": "無家庭照顧者或其他可協助照顧之人等情形不予給付喘息服務額度。", "law_basis": "第十一條" }
+  ],
+  "law_basis": ["第七條", "第十一條", "第十八條第五款", "附表二", "附表四"],
+  "manual_review": false,
   "related_articles": [7, 11, 18],
   "related_codes": ["GA03", "GA04", "GA05", "GA06", "GA07", "GA09"],
   "related_appendices": ["2", "4"],
@@ -26,5 +55,5 @@
     "不予給付",
     "G碼"
   ],
-  "law_source_note": "summary 依據 article-07（給付項目與額度不流用）、article-11（不予給付情形）、appendix-04（GA 碼）、appendix-02（喘息年額）。"
+  "law_source_note": "summary 與知識欄位依據 article-07（給付項目與額度不流用）、article-11（不予給付情形）、article-18第五款（人員資格）、appendix-04（GA 碼）、appendix-02（喘息年額）。"
 }

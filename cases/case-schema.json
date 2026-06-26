@@ -1,0 +1,21 @@
+{
+  "_note": "Case（匿名案例）資料格式定義。每個案例為一個符合本 schema 的 JSON 檔，置於 knowledge/cases/。案例僅引用 Rule 與法規，不得重述或自建規則。",
+  "_status_enum": ["draft", "active", "superseded", "archived"],
+  "_priority_hint": "Case 層建議 priority = 70。",
+  "schema": {
+    "case_id": "",
+    "title": "",
+    "keywords": [],
+    "conditions": [],
+    "analysis": "",
+    "rule_reference": [],
+    "law_reference": [],
+    "result": "",
+    "status": "draft",
+    "priority": 70,
+    "version": "1.0.0",
+    "manual_review": false,
+    "created_at": "",
+    "updated_at": ""
+  }
+}

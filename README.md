@@ -72,7 +72,36 @@ npm run typecheck  # 型別檢查
 
 啟用方式：GitHub repo → Settings → Pages → Build and deployment → Source 選擇 **GitHub Actions**。
 
+## Knowledge Architecture（知識架構）
+
+本平台為**長照法規知識平台**，採七層知識架構（完整說明見 [`ARCHITECTURE.md`](ARCHITECTURE.md)）：
+
+| Layer | 內容 | 位置 | priority |
+|---|---|---|---|
+| 1 Regulations | 條文／附表／逐條說明 | `regulations/` | 100 |
+| 2 Interpretations | 函釋／公告／行政解釋 | `interpretations/` | 90 |
+| 3 Rule Engine | 規則／例外／限制／額度／條件 | `rule-engine/` | 85 |
+| 4 Practical Topics | 實務主題（呈現層） | `practical/` | 80 |
+| 5 Assistive Devices | 長照／身障／醫療輔具 | `assistive-devices/` | 80 |
+| 6 Cases | 匿名案例 | `cases/` | 70 |
+| 7 Knowledge Graph | 跨層節點與關聯 | `knowledge-graph/` | — |
+
+治理文件：[`KNOWLEDGE_GOVERNANCE.md`](KNOWLEDGE_GOVERNANCE.md)（知識治理、生命週期、更新流程）、[`DEVELOPMENT_RULES.md`](DEVELOPMENT_RULES.md)（不可妥協原則、架構原則）、[`IMPORT_GUIDE.md`](IMPORT_GUIDE.md)（匯入指南）。
+
+五項核心原則：Single Source of Truth、Evidence First、Knowledge Governance、Knowledge Lifecycle、Knowledge Traceability、Future Compatible。各層只維護自身事實，跨層以引用（citation／id）單向連結，不重複維護、不覆寫、不 AI 推論。
+
 ## Version History
+
+### V1.5.0 — Knowledge Architecture
+- 建立七層知識架構與 `ARCHITECTURE.md`（含 ASCII 架構圖）
+- 新增 Layer 3 Rule Engine（`rule-engine/`：README、rule-schema、首筆 foreign-caregiver-001）
+- 新增 Layer 6 Cases 架構（`cases/`：README、case-schema，暫無案例）
+- 新增 Layer 7 Knowledge Graph（`knowledge-graph/`：README、graph-schema、外籍看護示範鏈）
+- 統一 metadata（version／created_at／updated_at／status／manual_review／priority）與 status／priority 規範
+- 更新 `KNOWLEDGE_GOVERNANCE.md`（Knowledge Lifecycle、Update Workflow、跨層引用原則）
+- 更新 `DEVELOPMENT_RULES.md`（Architecture Principle、各層職責）
+- 新增 `IMPORT_GUIDE.md`（PDF→raw→structured→validation→rule→graph→topic）
+- 純架構版本：未動 regulations／assistive-devices，未新增搜尋／AI／AA01／後端
 
 ### V1.4.2 — Knowledge Rule Model
 - Topic 新增「原則／例外」知識模型欄位：`rule`、`exceptions`、`rule_basis`、`exception_basis`

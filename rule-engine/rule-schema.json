@@ -1,0 +1,31 @@
+{
+  "_note": "Rule（規則）資料格式定義。每條規則為一個符合本 schema 的 JSON 檔，置於 knowledge/rule-engine/。conditions/exceptions/results 皆須附 citations，不得自行推論。",
+  "_status_enum": ["draft", "active", "superseded", "archived"],
+  "_priority_hint": "Rule 層建議 priority = 85（法規100 / 附表95 / 函釋90 / Rule85 / Topic80 / Case70 / Search60）。",
+  "schema": {
+    "rule_id": "",
+    "title": "",
+    "status": "active",
+    "priority": 85,
+    "version": "1.0.0",
+    "effective_date": "",
+    "conditions": [
+      { "description": "", "citation": "" }
+    ],
+    "exceptions": [
+      { "description": "", "citation": "" }
+    ],
+    "results": [
+      { "description": "", "citation": "" }
+    ],
+    "citations": [],
+    "related_articles": [],
+    "related_codes": [],
+    "related_appendices": [],
+    "related_topics": [],
+    "related_interpretations": [],
+    "manual_review": false,
+    "created_at": "",
+    "updated_at": ""
+  }
+}

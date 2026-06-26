@@ -60,3 +60,43 @@
 ## 十、最高原則
 
 本平台目的為建立可信、可追溯、可驗證、可持續維護、可供 AI 使用之長照法規知識平台。任何開發皆不得違反本 Knowledge Governance。
+
+---
+
+## 十一、Knowledge Lifecycle（知識生命週期）
+
+任何新增資料**不得直接覆寫**，須依下列生命週期推進：
+
+```
+Raw（原始：PDF／公文／公告）
+   ↓
+Structured（結構化：依各層 schema 建立 JSON）
+   ↓
+Validation（驗證：引用查核、JSON 驗證、manual_review 判定）
+   ↓
+Publish（發布：status=active，納入 priority 與搜尋）
+   ↓
+Archive（封存：被取代者 status=superseded／archived，保留歷史，不刪除）
+```
+
+## 十二、Knowledge Update Workflow（新增資料流程）
+
+| Step | 動作 |
+|---|---|
+| 1 | 判斷資料類型（法規／函釋／公告／逐條說明／Topic／Rule／Case） |
+| 2 | 建立 Raw（保留原始來源，如 `01-official/`） |
+| 3 | 建立 Structured（依對應層 schema 建立 JSON） |
+| 4 | 建立 Citation（引用 L1／L2 來源與日期） |
+| 5 | 建立 Rule（如屬規則／例外／額度，於 `rule-engine/` 建立或更新 Rule） |
+| 6 | 更新 Graph（於 `knowledge-graph/` 新增節點與關聯） |
+| 7 | 更新 Search（必要時於 `smartSearchRules.ts` 增同義詞／導引） |
+| 8 | 更新 Topic（呈現層引用上述，不寫死規則） |
+
+## 十三、Rule／Topic／Interpretation／Case 彼此引用原則
+
+- **Rule** 引用 Regulation／Interpretation；被 Topic／Case／Graph 引用。
+- **Topic** 引用 Rule／Regulation／Interpretation（呈現），不重述規則。
+- **Interpretation** 引用 Regulation；被 Rule／Topic 引用。
+- **Case** 引用 Rule／Regulation；不重述規則。
+- **嚴禁雙向重複維護**：同一事實只在來源層維護一次，其餘層以 id／citation 單向引用。
+

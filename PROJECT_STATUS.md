@@ -121,3 +121,19 @@ React/Vite法規查詢頁
 - TopicDetailPage 調整為「原則 → 例外規定 → …」順序
 - 新增 DEVELOPMENT_RULES.md 與 KNOWLEDGE_GOVERNANCE.md（知識治理）
 - Smart Search 預留 Interpretation Layer（TODO）
+
+## Version 1.5.0（Knowledge Architecture）
+
+完成日期：
+
+2026-06-26
+
+完成內容：
+
+- 建立七層知識架構（ARCHITECTURE.md，含 ASCII 圖）
+- 新增 Layer 3 Rule Engine（rule-engine/）、Layer 6 Cases（cases/）、Layer 7 Knowledge Graph（knowledge-graph/）
+- 各層 schema 與 metadata（version/created_at/updated_at/status/manual_review/priority）統一
+- 更新 KNOWLEDGE_GOVERNANCE（Lifecycle、Update Workflow、跨層引用）
+- 更新 DEVELOPMENT_RULES（Architecture Principle）
+- 新增 IMPORT_GUIDE.md
+- 純架構版本，未動 regulations／assistive-devices，未新增搜尋／AI／AA01／後端

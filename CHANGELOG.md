@@ -2,6 +2,24 @@
 
 本專案的所有重要變更皆記錄於此檔。
 
+## [V1.5.0] - 2026-06-26 — Knowledge Architecture
+
+### 新增（知識架構，不含功能／搜尋／AI）
+- `ARCHITECTURE.md`：七層知識架構與 ASCII 架構圖、各層職責、缺漏清單。
+- Layer 3 `rule-engine/`：README、`rule-schema.json`、首筆規則 `foreign-caregiver-001.json`（引用第十條、附表四 BA09／BA09a）。
+- Layer 6 `cases/`：README、`case-schema.json`（僅 schema，無案例）。
+- Layer 7 `knowledge-graph/`：README、`graph-schema.json`、示範 `graph-foreign-caregiver.json`（article-10 → rule → topic-001 → BA09 → interpretation）。
+- `IMPORT_GUIDE.md`：未來法規／函釋／公告匯入流程（raw→structured→validation→rule→graph→topic）。
+
+### 變更
+- `KNOWLEDGE_GOVERNANCE.md`：新增 Knowledge Lifecycle、Knowledge Update Workflow、跨層引用原則。
+- `DEVELOPMENT_RULES.md`：新增 Architecture Principle 與各層職責（Topic 不寫死規則）。
+- 統一 metadata 與 status（draft/active/superseded/archived）、priority（法規100/附表95/函釋90/Rule85/Topic80/Case70/Search60）。
+- 版本 1.4.2 → 1.5.0。
+
+### 原則
+- 未修改 knowledge/regulations、knowledge/assistive-devices；未開發 AA01／AI／後端／搜尋整合。
+
 ## [V1.4.2] - 2026-06-26 — Knowledge Rule Model
 
 ### 知識模型（rule / exception）

@@ -1,0 +1,98 @@
+{
+  "_note": "示範知識鏈：外籍看護 30% 額度與 BA09／BA09a 例外。節點僅以 id 引用各來源層，內容維護於來源層。",
+  "nodes": [
+    {
+      "node_id": "article-10",
+      "node_type": "article",
+      "title": "聘僱外國人之給付限制（第十條）",
+      "relations": [
+        { "type": "defines", "target": "rule:foreign-caregiver-001" }
+      ],
+      "citations": ["第十條"],
+      "priority": 100,
+      "status": "active",
+      "version": "1.0.0",
+      "created_at": "2026-06-26",
+      "updated_at": "2026-06-26",
+      "manual_review": false
+    },
+    {
+      "node_id": "rule:foreign-caregiver-001",
+      "node_type": "rule",
+      "title": "聘有外籍看護者 30% 額度原則與 BA09／BA09a 例外",
+      "relations": [
+        { "type": "based_on", "target": "article-10" },
+        { "type": "exception_of", "target": "code:BA09" },
+        { "type": "exception_of", "target": "code:BA09a" },
+        { "type": "presented_by", "target": "topic-001" },
+        { "type": "clarified_by", "target": "interpretation-ba09-ba09a-foreign-caregiver" }
+      ],
+      "citations": ["第十條第一項", "第十條第二項", "附表四－BA09 第四點", "附表四－BA09a 第四點"],
+      "priority": 85,
+      "status": "active",
+      "version": "1.0.0",
+      "created_at": "2026-06-26",
+      "updated_at": "2026-06-26",
+      "manual_review": false
+    },
+    {
+      "node_id": "code:BA09",
+      "node_type": "code",
+      "title": "到宅沐浴車服務—第一型（BA09）",
+      "relations": [{ "type": "defined_in", "target": "appendix-04" }],
+      "citations": ["附表四－BA09"],
+      "priority": 95,
+      "status": "active",
+      "version": "1.0.0",
+      "created_at": "2026-06-26",
+      "updated_at": "2026-06-26",
+      "manual_review": false
+    },
+    {
+      "node_id": "code:BA09a",
+      "node_type": "code",
+      "title": "到宅沐浴車服務—第二型（BA09a）",
+      "relations": [{ "type": "defined_in", "target": "appendix-04" }],
+      "citations": ["附表四－BA09a"],
+      "priority": 95,
+      "status": "active",
+      "version": "1.0.0",
+      "created_at": "2026-06-26",
+      "updated_at": "2026-06-26",
+      "manual_review": false
+    },
+    {
+      "node_id": "topic-001",
+      "node_type": "topic",
+      "title": "外籍看護（實務主題）",
+      "relations": [
+        { "type": "cites", "target": "article-10" },
+        { "type": "cites", "target": "appendix-04" },
+        { "type": "applies_rule", "target": "rule:foreign-caregiver-001" }
+      ],
+      "citations": ["第十條", "附表四"],
+      "priority": 80,
+      "status": "active",
+      "version": "1.0.0",
+      "created_at": "2026-06-26",
+      "updated_at": "2026-06-26",
+      "manual_review": false
+    },
+    {
+      "node_id": "interpretation-ba09-ba09a-foreign-caregiver",
+      "node_type": "interpretation",
+      "title": "聘有外籍看護者使用 BA09／BA09a 例外規定",
+      "relations": [
+        { "type": "clarifies", "target": "rule:foreign-caregiver-001" },
+        { "type": "based_on", "target": "appendix-04" }
+      ],
+      "citations": ["附表四－BA09 第四點", "附表四－BA09a 第四點"],
+      "priority": 90,
+      "status": "active",
+      "version": "1.0.0",
+      "created_at": "2026-06-26",
+      "updated_at": "2026-06-26",
+      "manual_review": false
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "rule_id": "foreign-caregiver-001",
+  "title": "聘有外籍看護者之照顧及專業服務 30% 額度原則與 BA09／BA09a 例外",
+  "status": "active",
+  "priority": 85,
+  "version": "1.0.0",
+  "effective_date": "115-01-01",
+  "conditions": [
+    {
+      "description": "長照給付對象聘僱外國人從事家庭幫傭、家庭看護、中階技術家庭看護工作，或依其他法令規定不得重複領取照顧服務補助者。",
+      "citation": "第十條第一項"
+    }
+  ],
+  "results": [
+    {
+      "description": "給付附表二「照顧及專業服務」額度之百分之三十。",
+      "citation": "第十條第一項；附表二"
+    },
+    {
+      "description": "前述百分之三十額度，原則應用於附表四「居家照顧服務」（BA 碼）以外之照顧組合（故可用於日間照顧 BB、家庭托顧 BC 等）。",
+      "citation": "第十條第二項"
+    }
+  ],
+  "exceptions": [
+    {
+      "description": "BA09（到宅沐浴車服務—第一型）符合附表四第一至三點規定者，本類對象得使用本項服務，不受第十條第二項之限制，惟其給付額度仍僅給付「照顧及專業服務額度」之百分之三十。",
+      "citation": "附表四－BA09 第四點"
+    },
+    {
+      "description": "BA09a（到宅沐浴車服務—第二型）符合附表四第一至三點規定者，本類對象得使用本項服務，不受第十條第二項之限制，惟其給付額度仍僅給付「照顧及專業服務額度」之百分之三十。",
+      "citation": "附表四－BA09a 第四點"
+    }
+  ],
+  "citations": [
+    "第十條第一項",
+    "第十條第二項",
+    "附表二",
+    "附表四－BA09 第四點",
+    "附表四－BA09a 第四點"
+  ],
+  "related_articles": ["article-10"],
+  "related_codes": ["BA09", "BA09a"],
+  "related_appendices": ["appendix-02", "appendix-04"],
+  "related_topics": ["topic-001"],
+  "related_interpretations": ["interpretation-ba09-ba09a-foreign-caregiver"],
+  "manual_review": false,
+  "created_at": "2026-06-26",
+  "updated_at": "2026-06-26"
+}

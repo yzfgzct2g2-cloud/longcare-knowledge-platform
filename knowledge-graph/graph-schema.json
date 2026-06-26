@@ -1,0 +1,20 @@
+{
+  "_note": "Knowledge Graph 節點格式定義。每個圖檔為節點陣列；relations 以 { type, target } 指向其他 node_id。圖僅引用，不重複維護內容。",
+  "_node_type_enum": ["article", "appendix", "code", "rule", "topic", "interpretation", "case", "device"],
+  "_status_enum": ["draft", "active", "superseded", "archived"],
+  "schema": {
+    "node_id": "",
+    "node_type": "",
+    "title": "",
+    "relations": [
+      { "type": "", "target": "" }
+    ],
+    "citations": [],
+    "priority": 0,
+    "status": "active",
+    "version": "1.0.0",
+    "created_at": "",
+    "updated_at": "",
+    "manual_review": false
+  }
+}

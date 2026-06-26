@@ -39,6 +39,27 @@
 
 任何搜尋結果、Topic、Rule、Exception、未來 AI 回答，皆須可追溯至來源法規／附表／函釋／公告及其版本與日期。
 
+## 8. Architecture Principle（架構原則）
+
+任何新功能**不得直接修改 Topic 來表達規則**：
+
+- 屬**規則變更** → 修改 `rule-engine/`（Rule），Topic 以 `rule_id` 引用。
+- 屬**法規變更** → 新增／更新 `regulations/`（Regulation）或 `interpretations/`（Interpretation）。
+- **不得**把 Rule 直接寫死於 Topic。
+
+各層職責（Single Source of Truth）：
+
+| 層 | 只負責 |
+|---|---|
+| Regulation | 正式法規（條文／附表原文） |
+| Interpretation | 解釋（函釋／公告／修正說明） |
+| Rule | 規則（原則／例外／限制／額度／條件），必引用 L1／L2 |
+| Topic | 呈現（引用 Rule／法規，不寫死規則） |
+| Case | 案例（引用 Rule／法規，不重述規則） |
+| Knowledge Graph | 關聯（節點引用，不重複維護內容） |
+
+新增資料一律遵循 `KNOWLEDGE_GOVERNANCE.md` 之 Knowledge Lifecycle 與 Update Workflow。
+
 ---
 
 > 違反上述任一原則之變更，視為不合格，應退回修正。

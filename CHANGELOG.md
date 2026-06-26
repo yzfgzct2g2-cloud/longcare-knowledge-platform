@@ -2,6 +2,18 @@
 
 本專案的所有重要變更皆記錄於此檔。
 
+## [V1.3.1] - 2026-06-26
+
+### 修正
+- 修正 GitHub Pages 空白頁問題（Vite 子路徑資源載入失敗）。
+
+### 變更
+- 改用 GitHub Actions 建置後部署 Vite `dist`（`.github/workflows/deploy.yml`）。
+- `vite.config.ts` 設定 `base: '/longcare-knowledge-platform/'`。
+- `BrowserRouter` 加入 `basename={import.meta.env.BASE_URL}`，子路徑路由正確。
+- 加入 `404.html` SPA fallback。
+- 版本 1.3.0 → 1.3.1。
+
 ## [V1.3.0] - 2026-06-26
 
 ### 新增

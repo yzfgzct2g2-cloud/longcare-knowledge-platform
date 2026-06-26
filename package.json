@@ -1,7 +1,7 @@
 {
   "name": "ltc-regulation-search",
   "private": true,
-  "version": "1.3.0",
+  "version": "1.3.1",
   "type": "module",
   "description": "長照法規搜尋系統 - 純前端本機法規查詢",
   "scripts": {

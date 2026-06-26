@@ -59,3 +59,15 @@ React/Vite法規查詢頁
 - 新增命中理由
 - 新增搜尋排序權重
 - 保留跨制度輔具提示
+
+## Version 1.3.1
+
+完成日期：
+
+2026-06-26
+
+完成內容：
+
+- 修正 GitHub Pages 空白頁問題
+- 改用 GitHub Actions 部署 Vite dist
+- 設定 Vite base path（/longcare-knowledge-platform/）與 Router basename

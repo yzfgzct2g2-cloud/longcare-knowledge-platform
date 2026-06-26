@@ -62,7 +62,22 @@ npm run typecheck  # 型別檢查
 
 搜尋規則與實務資料皆為前端設定／唯讀載入，不修改 `knowledge/` 原始 JSON。
 
+## 部署（GitHub Pages）
+
+本專案以 GitHub Actions 自動建置並部署 Vite `dist/` 至 GitHub Pages：
+
+- `vite.config.ts` 設定 `base: '/longcare-knowledge-platform/'`（與 repo 名稱一致），避免子路徑下資源 404 造成空白頁。
+- `BrowserRouter` 以 `import.meta.env.BASE_URL` 作為 `basename`，使子路徑路由正確。
+- workflow：`.github/workflows/deploy.yml`（push main → `npm ci` → `npm run build` → `upload-pages-artifact` → `deploy-pages`），並將 `index.html` 複製為 `404.html` 作為 SPA fallback。
+
+啟用方式：GitHub repo → Settings → Pages → Build and deployment → Source 選擇 **GitHub Actions**。
+
 ## Version History
+
+### V1.3.1
+- 修正 GitHub Pages 空白頁問題
+- 改用 GitHub Actions 部署 Vite `dist`
+- 設定 Vite `base` path 與 Router `basename`
 
 ### V1.3.0
 - 新增 Smart Search（規則式、非 AI）

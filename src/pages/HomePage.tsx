@@ -1,6 +1,19 @@
 import { useNavigate, Link } from 'react-router-dom'
 import SearchBox from '../components/SearchBox'
 import { VERSION } from '../config/version'
+import { getTopicByName } from '../data/practical'
+
+// 常用實務主題（導向主題詳情；找不到 id 時導向 /topics?q=名稱）
+const FEATURED_TOPICS = [
+  '外籍看護',
+  '交通接送',
+  '失智症',
+  '喘息服務',
+  '營養照護',
+  '輔具',
+  '居家無障礙改善',
+  '長照需要等級',
+]
 
 const SHORTCUTS = [
   '外籍看護',
@@ -73,6 +86,28 @@ export default function HomePage() {
                 {s}
               </button>
             ))}
+          </div>
+        </div>
+
+        <div className="mt-6">
+          <div className="mb-2 flex items-center justify-between">
+            <p className="text-xs font-medium text-slate-400">實務主題</p>
+            <Link to="/topics" className="text-xs text-teal-600 hover:underline">全部主題 →</Link>
+          </div>
+          <div className="flex flex-wrap gap-2">
+            {FEATURED_TOPICS.map((name) => {
+              const id = getTopicByName(name)?.id
+              const to = id ? `/topics/${id}` : `/topics?q=${encodeURIComponent(name)}`
+              return (
+                <button
+                  key={name}
+                  onClick={() => navigate(to)}
+                  className="rounded-lg border border-teal-200 bg-white px-3 py-1.5 text-sm text-teal-700 transition-colors hover:border-teal-400 hover:bg-teal-50"
+                >
+                  {name}
+                </button>
+              )
+            })}
           </div>
         </div>
 

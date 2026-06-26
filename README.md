@@ -74,6 +74,14 @@ npm run typecheck  # 型別檢查
 
 ## Version History
 
+### V1.4.0
+- 新增實務主題列表頁 `/topics`
+- 新增實務主題詳情頁 `/topics/:topicId`（採檔名 id，如 topic-001）
+- 搜尋結果之主題卡片可連結至主題詳情
+- 主題頁顯示相關條文、碼別、附表、相關主題、常見問題、法規來源
+- 首頁新增常用實務主題；導覽列新增「實務主題」
+- 保留純前端架構，不啟用 AI／後端
+
 ### V1.3.1
 - 修正 GitHub Pages 空白頁問題
 - 改用 GitHub Actions 部署 Vite `dist`

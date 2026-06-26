@@ -8,6 +8,7 @@ const NAV = [
   { to: '/codes', label: '碼別查詢' },
   { to: '/effective', label: '生效日查詢' },
   { to: '/revisions', label: '修法沿革' },
+  { to: '/topics', label: '實務主題' },
   { to: '/assistive-devices', label: '身障／醫療輔具' },
   { to: '/ask-ai', label: 'AI 問答' },
 ]

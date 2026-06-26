@@ -1,6 +1,7 @@
 import { useMemo } from 'react'
 import { Link, useSearchParams } from 'react-router-dom'
 import { searchSmart } from '../lib/smartSearch'
+import { getTopicByName } from '../data/practical'
 import { articleLabel, appendixLabel } from '../lib/format'
 import Highlight from '../components/Highlight'
 import type {
@@ -75,6 +76,7 @@ function ArticleCard({ a, terms }: { a: SmartArticleResult; terms: string[] }) {
 }
 
 function TopicCard({ t, terms }: { t: SmartTopicResult; terms: string[] }) {
+  const topicId = getTopicByName(t.topic)?.id
   return (
     <div className="rounded-lg border border-slate-200 bg-white p-4">
       <div className="flex flex-wrap items-center gap-x-2">
@@ -83,6 +85,11 @@ function TopicCard({ t, terms }: { t: SmartTopicResult; terms: string[] }) {
         </span>
         {t.aliases.length > 0 && (
           <span className="text-xs text-slate-400">別名：{t.aliases.slice(0, 5).join('、')}</span>
+        )}
+        {topicId && (
+          <Link to={`/topics/${topicId}`} className="ml-auto text-xs font-medium text-teal-700 hover:underline">
+            查看主題詳情 →
+          </Link>
         )}
       </div>
       <p className="mt-1 text-sm leading-relaxed text-slate-600">

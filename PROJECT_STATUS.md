@@ -71,3 +71,19 @@ React/Vite法規查詢頁
 - 修正 GitHub Pages 空白頁問題
 - 改用 GitHub Actions 部署 Vite dist
 - 設定 Vite base path（/longcare-knowledge-platform/）與 Router basename
+
+## Version 1.4.0
+
+完成日期：
+
+2026-06-26
+
+完成內容：
+
+- 新增實務主題列表頁
+- 新增實務主題詳情頁
+- 搜尋結果可連結主題詳情
+- 主題頁顯示相關條文、碼別、附表、常見問題
+- 保留純前端架構
+- 不啟用 AI
+- 不啟用後端

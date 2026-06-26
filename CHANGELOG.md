@@ -2,6 +2,24 @@
 
 本專案的所有重要變更皆記錄於此檔。
 
+## [V1.4.0] - 2026-06-26
+
+### 新增
+- 實務主題列表頁 `/topics`（搜尋主題／別名／關鍵字／常見問題／摘要）。
+- 實務主題詳情頁 `/topics/:topicId`：實務摘要、別名、常見問題、相關條文／碼別／附表／相關主題、法規來源、source_type、breadcrumb。
+- `src/pages/TopicsPage.tsx`、`src/pages/TopicDetailPage.tsx`。
+- `src/data/practical.ts` 擴充：getAllTopics、getTopicById、getTopicByName、getRelatedArticles／Codes／Appendices／Topics（含 id 由檔名推導、欄位安全預設）。
+
+### 變更
+- `/search` 主題卡片新增「查看主題詳情」連結。
+- 首頁新增「實務主題」區（8 個常用主題）；導覽列新增「實務主題」。
+- 相關條文／碼別／附表找不到對應資料時顯示原始 id 並標示，不報錯。
+- `package.json` 版本 1.3.1 → 1.4.0。
+
+### 設計原則
+- 純前端、唯讀；不啟用 AI、不建後端、不呼叫外部 API、不開發 AA01。
+- 不修改 knowledge/regulations、knowledge/practical、knowledge/assistive-devices 原始 JSON。
+
 ## [V1.3.1] - 2026-06-26
 
 ### 修正

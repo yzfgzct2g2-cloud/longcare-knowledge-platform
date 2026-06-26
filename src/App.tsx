@@ -11,6 +11,8 @@ import EffectivePage from './pages/EffectivePage'
 import RevisionsPage from './pages/RevisionsPage'
 import AskAIPage from './pages/AskAIPage'
 import AssistiveDevicesPage from './pages/AssistiveDevicesPage'
+import TopicsPage from './pages/TopicsPage'
+import TopicDetailPage from './pages/TopicDetailPage'
 
 function NotFound() {
   return (
@@ -38,6 +40,8 @@ export default function App() {
         <Route path="/appendices/:id" element={<AppendixDetailPage />} />
         <Route path="/effective" element={<EffectivePage />} />
         <Route path="/revisions" element={<RevisionsPage />} />
+        <Route path="/topics" element={<TopicsPage />} />
+        <Route path="/topics/:topicId" element={<TopicDetailPage />} />
         <Route path="/assistive-devices" element={<AssistiveDevicesPage />} />
         <Route path="/ask-ai" element={<AskAIPage />} />
         <Route path="*" element={<NotFound />} />

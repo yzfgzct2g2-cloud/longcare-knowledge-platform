@@ -140,3 +140,66 @@ export interface SearchResults {
   appendices: AppendixResult[]
   effectiveDates: EffectiveDateResult[]
 }
+
+// ---- Smart Search（V1.3.0）結果型別 ----
+
+export type ReasonKind =
+  | 'code-exact'
+  | 'article-exact'
+  | 'topic-exact'
+  | 'synonym'
+  | 'practical-map'
+  | 'relation'
+  | 'topic'
+  | 'title'
+  | 'keyword'
+  | 'fulltext'
+  | 'citation'
+  | 'assistive'
+
+/** 命中理由（顯示於每筆結果） */
+export interface HitReason {
+  kind: ReasonKind
+  label: string
+}
+
+interface Scored {
+  score: number
+  reasons: HitReason[]
+  /** 是否為直接命中（碼別／條文／實務主題之精確命中） */
+  direct: boolean
+}
+
+export interface SmartArticleResult extends ArticleResult, Scored {}
+export interface SmartCodeResult extends CodeResult, Scored {}
+export interface SmartAppendixResult extends AppendixResult, Scored {}
+export interface SmartEffectiveResult extends EffectiveDateResult, Scored {}
+export interface SmartTopicResult extends Scored {
+  topic: string
+  summary: string
+  aliases: string[]
+  related_articles: number[]
+  related_codes: string[]
+}
+
+export type DirectHit =
+  | { type: 'article'; item: SmartArticleResult }
+  | { type: 'code'; item: SmartCodeResult }
+  | { type: 'topic'; item: SmartTopicResult }
+
+export interface SmartSearchResults {
+  query: string
+  normalizedQuery: string
+  /** 同義詞展開後的搜尋詞 */
+  expandedTerms: string[]
+  /** 命中的同義詞標準概念（如 外看 → 外籍看護） */
+  synonymCanonicals: string[]
+  directHits: DirectHit[]
+  topics: SmartTopicResult[]
+  articles: SmartArticleResult[]
+  codes: SmartCodeResult[]
+  appendices: SmartAppendixResult[]
+  effectiveDates: SmartEffectiveResult[]
+  assistiveHint: { hit: boolean; matched: string[] }
+  totalHits: number
+}

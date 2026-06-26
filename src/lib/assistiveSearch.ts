@@ -11,6 +11,7 @@ import {
   type AssistiveSystem,
 } from '../data/assistive'
 import { normalizeQuery } from './normalize'
+import { assistiveHintKeywords } from '../data/smartSearchRules'
 
 /**
  * UI 提示用後備關鍵字（assistiveFallbackKeywords）。
@@ -19,22 +20,10 @@ import { normalizeQuery } from './normalize'
  * 用途：即使 assistive-search-index.json 尚未收錄某些常見輔具名稱，
  * 主搜尋仍能在使用者輸入這些字時顯示「可能相關：身障／醫療輔具」提示卡片。
  * 本清單不影響任何法規資料、不寫入任何 JSON、不參與補助金額或年限判斷。
+ *
+ * V1.3.0：統一以 smartSearchRules.assistiveHintKeywords 為單一來源。
  */
-export const assistiveFallbackKeywords: readonly string[] = [
-  '輪椅',
-  '助行器',
-  '柺杖',
-  '拐杖',
-  '移位機',
-  '移位腰帶',
-  '馬桶增高器',
-  '沐浴椅',
-  '氧氣製造機',
-  '血氧機',
-  '抽痰機',
-  '人工電子耳',
-  '助聽器',
-]
+export const assistiveFallbackKeywords: readonly string[] = assistiveHintKeywords
 
 function twoWayMatch(a: string, b: string): boolean {
   if (!a || !b) return false

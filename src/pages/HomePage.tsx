@@ -14,6 +14,20 @@ const SHORTCUTS = [
   '115-07-01',
 ]
 
+// 常用實務查詢（口語問句，導引至相關法規與主題；不產生照護建議）
+const PRACTICAL_QUERIES = [
+  '外看可以用日照嗎',
+  '交通接送額度',
+  '失智症年齡限制',
+  'CMS7可以用什麼',
+  '喘息服務',
+  '營養照護',
+  '輔具補助',
+  '居家無障礙改善',
+  '洗澡協助',
+  '陪同外出復健',
+]
+
 export default function HomePage() {
   const navigate = useNavigate()
 
@@ -40,6 +54,21 @@ export default function HomePage() {
                 key={s}
                 onClick={() => navigate(`/search?q=${encodeURIComponent(s)}`)}
                 className="rounded-full border border-slate-300 bg-white px-3 py-1.5 text-sm text-slate-700 transition-colors hover:border-brand-500 hover:bg-brand-50 hover:text-brand-700"
+              >
+                {s}
+              </button>
+            ))}
+          </div>
+        </div>
+
+        <div className="mt-6">
+          <p className="mb-2 text-xs font-medium text-slate-400">常用實務查詢</p>
+          <div className="flex flex-wrap gap-2">
+            {PRACTICAL_QUERIES.map((s) => (
+              <button
+                key={s}
+                onClick={() => navigate(`/search?q=${encodeURIComponent(s)}`)}
+                className="rounded-lg border border-teal-200 bg-teal-50 px-3 py-1.5 text-sm text-teal-700 transition-colors hover:border-teal-400 hover:bg-teal-100"
               >
                 {s}
               </button>

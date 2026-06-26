@@ -1,6 +1,11 @@
 // Smart Search 引擎（V1.3.0）。
 // 規則式（非 AI）：同義詞展開 + 實務查詢導引 + 命中理由 + 加權排序 + 結果分層。
 // 僅查詢本機 JSON（regulations / practical / assistive-devices），無任何外部 API。
+//
+// TODO（V1.4.2 預留，尚未整合）：Interpretation Layer。
+//   未來搜尋外籍看護等主題時，除 Topic 外，應依 knowledge/interpretations/ 之函釋／公告
+//   （依 priority：法規100 > 函釋90 > 逐條說明80 > Topic70 > 搜尋輔助60）另外提示
+//   「已有函釋／行政解釋／修正公告」。本版僅建立資料架構與此 TODO，不做整合。
 
 import {
   appendices,

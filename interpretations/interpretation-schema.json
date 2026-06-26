@@ -1,0 +1,29 @@
+{
+  "_note": "interpretation（函釋／公告／補充說明）資料格式定義。每筆函釋為一個符合本 schema 的 JSON 檔，置於 knowledge/interpretations/。",
+  "_source_type_enum": [
+    "official_interpretation",
+    "official_notice",
+    "amendment_note",
+    "local_government_rule",
+    "manual_review_note"
+  ],
+  "_status_enum": ["active", "superseded", "archived", "draft"],
+  "schema": {
+    "id": "",
+    "title": "",
+    "source_type": "",
+    "issued_date": "",
+    "effective_date": "",
+    "status": "active",
+    "supersedes": [],
+    "related_articles": [],
+    "related_codes": [],
+    "related_appendices": [],
+    "rule_summary": "",
+    "rule_detail": "",
+    "citation": "",
+    "original_text": "",
+    "priority": 90,
+    "manual_review": false
+  }
+}

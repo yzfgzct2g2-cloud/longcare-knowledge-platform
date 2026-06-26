@@ -103,3 +103,21 @@ React/Vite法規查詢頁
 - 修正外籍看護錯誤關聯（移除 BA08/BA09/BA09a）；新增 BA07 協助沐浴及洗頭主題
 - 升級主題：外籍看護、BA07 協助沐浴及洗頭、交通接送、日間照顧、喘息服務
 - 維持單一資料來源（直接升級 knowledge/practical/topics）
+
+## Version 1.4.2
+
+完成日期：
+
+2026-06-26
+
+完成內容：
+
+- 修正外籍看護 BA09／BA09a 例外規定（改列有條件使用，不再列入不得使用）
+- 修正「所有 BA 碼不得使用」之過度簡化描述
+- 新增函釋／公告／補充說明資料架構 knowledge/interpretations
+- 建立 interpretation schema
+- 建立 BA09／BA09a 外籍看護例外規定 interpretation 範例
+- Topic 新增 rule／exceptions／rule_basis／exception_basis 知識模型欄位
+- TopicDetailPage 調整為「原則 → 例外規定 → …」順序
+- 新增 DEVELOPMENT_RULES.md 與 KNOWLEDGE_GOVERNANCE.md（知識治理）
+- Smart Search 預留 Interpretation Layer（TODO）

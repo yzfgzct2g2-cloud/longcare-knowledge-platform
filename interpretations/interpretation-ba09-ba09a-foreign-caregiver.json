@@ -1,0 +1,18 @@
+{
+  "id": "interpretation-ba09-ba09a-foreign-caregiver",
+  "title": "聘有外籍看護者使用 BA09／BA09a 例外規定",
+  "source_type": "amendment_note",
+  "issued_date": "114-06-19",
+  "effective_date": "115-01-01",
+  "status": "active",
+  "supersedes": [],
+  "related_articles": ["article-10"],
+  "related_codes": ["BA09", "BA09a"],
+  "related_appendices": ["appendix-04"],
+  "rule_summary": "聘有外籍看護者一般受第十條第二項限制（30%額度應用於附表四 BA 碼以外之照顧組合），惟 BA09／BA09a（到宅沐浴車服務）依附表四第四點規定，符合該表第一至三點條件者得使用本項服務，不受第十條第二項限制，但給付額度仍僅給付照顧及專業服務額度之百分之三十。",
+  "rule_detail": "適用對象：聘僱外國人從事家庭幫傭工作、家庭看護工作、中階技術家庭看護工作，或依其他法令規定不得重複領取照顧服務補助之長照給付對象。須同時符合 BA09／BA09a 附表四第一至三點之等級（第五級至第八級）、適用情形與認可訓練團隊等規定。給付額度上限仍為「照顧及專業服務額度」之百分之三十。此例外不及於其他一般 BA 居家照顧服務碼。",
+  "citation": "附表四－BA09 第四點、附表四－BA09a 第四點",
+  "original_text": "符合上述一至三規定且聘僱外國人從事家庭幫傭工作、家庭看護工作、中階技術家庭看護工作或依其他法令規定不得重複領取照顧服務補助之長照給付對象，可使用本項服務，不受第十條第二項之限制，惟其給付額度仍僅給付「照顧及專業服務額度」之百分之三十。",
+  "priority": 90,
+  "manual_review": false
+}

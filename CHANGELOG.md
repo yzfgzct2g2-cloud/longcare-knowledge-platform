@@ -2,6 +2,31 @@
 
 本專案的所有重要變更皆記錄於此檔。
 
+## [V1.4.2] - 2026-06-26 — Knowledge Rule Model
+
+### 知識模型（rule / exception）
+- Topic 新增欄位：`rule`、`exceptions`、`rule_basis`、`exception_basis`，以「原則 → 例外」層級表達法規。
+- TopicDetailPage 調整區塊順序：主題摘要 → 原則 → 例外規定 → 可以使用 → 不得使用 → 有條件使用 → 額度規定 → 限制事項 → 相容服務 → 常見誤解 → 法規依據 → 相關條文／碼別／附表（原則藍、例外規定紫，與其他色階區分）。
+- 外籍看護以 rule/exception 重新整理：Rule＝30% 額度且原則用於 BA 碼以外；Exception＝BA09／BA09a 符合附表四第四點得使用、不受第十條第二項限制（額度仍 30%）。
+
+### 知識治理
+- 新增 `DEVELOPMENT_RULES.md`（不可妥協原則：Evidence First、無依據不下結論、禁止 AI 推論、不得過度簡化等）。
+- 新增 `KNOWLEDGE_GOVERNANCE.md`（Single Source of Truth、Data Hierarchy 與 priority、Never Overwrite、Evidence First、Future Compatible、Traceability、Manual Review、新增資料流程）。
+- Smart Search 預留 Interpretation Layer TODO（本版不整合）。
+
+### 修正（知識正確性）
+- 外籍看護主題頁 BA09／BA09a：依附表四第四點例外規定，改列「有條件使用」，不再列入「不得使用」；related_codes 由 [] 修正為 [BA09, BA09a]（BA08 仍不納入，與外籍看護無個別關聯）。
+- 移除「不得以 30% 額度使用居家照顧服務（BA 碼）／所有 BA 碼不得使用」之過度簡化結論；改為「一般 BA 原則受第十條第二項限制，BA09／BA09a 為例外」。
+- 新增常見誤解：聘外籍看護者一律不得使用任何 BA 居家照顧服務（澄清 BA09／BA09a 例外）。
+
+### 新增
+- 函釋／公告／補充說明資料架構 `knowledge/interpretations/`：README.md（含效力順序）、interpretation-schema.json。
+- 第一筆 interpretation：`interpretation-ba09-ba09a-foreign-caregiver.json`（amendment_note，含完整原文 citation）。
+- 外籍看護主題 law_source_note 保留例外規定完整原文，並指向該 interpretation。
+
+### 原則
+- 不開發 AA01、不啟用 AI、不建後端；未修改 knowledge/regulations、knowledge/assistive-devices 原始 JSON。
+
 ## [V1.4.1] - 2026-06-26 — Practical Knowledge Enhancement
 
 ### 新增

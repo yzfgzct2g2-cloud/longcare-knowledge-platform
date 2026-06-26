@@ -22,8 +22,16 @@ export interface MistakeEntry {
   fact: string
   law_basis: string
 }
+export interface RuleEntry {
+  statement: string
+  basis: string
+}
 
 interface KnowledgeFields {
+  rule?: RuleEntry[]
+  exceptions?: RuleEntry[]
+  rule_basis?: string[]
+  exception_basis?: string[]
   can_use?: UseEntry[]
   cannot_use?: UseEntry[]
   conditional_use?: UseEntry[]
@@ -114,6 +122,10 @@ export const practicalTopics: PracticalTopic[] = Object.entries(topicModules)
       keywords: data.keywords ?? [],
       law_source_note: data.law_source_note ?? '',
       needs_manual_supplement: data.needs_manual_supplement ?? false,
+      rule: data.rule,
+      exceptions: data.exceptions,
+      rule_basis: data.rule_basis,
+      exception_basis: data.exception_basis,
       can_use: data.can_use,
       cannot_use: data.cannot_use,
       conditional_use: data.conditional_use,

@@ -7,6 +7,7 @@ import {
   getTopicById,
   type MistakeEntry,
   type QuotaEntry,
+  type RuleEntry,
   type UseEntry,
 } from '../data/practical'
 
@@ -27,13 +28,14 @@ function LawChip({ basis }: { basis: string }) {
   )
 }
 
-type Tone = 'green' | 'red' | 'yellow' | 'blue' | 'gray'
+type Tone = 'green' | 'red' | 'yellow' | 'blue' | 'gray' | 'purple'
 const TONE: Record<Tone, string> = {
   green: 'border-l-4 border-green-400 bg-green-50',
   red: 'border-l-4 border-red-400 bg-red-50',
   yellow: 'border-l-4 border-yellow-400 bg-yellow-50',
   blue: 'border-l-4 border-blue-400 bg-blue-50',
   gray: 'border-l-4 border-slate-300 bg-slate-50',
+  purple: 'border-l-4 border-purple-400 bg-purple-50',
 }
 
 /** 有 law_basis 才顯示的彩色清單區塊；無資料則整段不渲染 */
@@ -48,6 +50,31 @@ function UseSection({ title, tone, items }: { title: string; tone: Tone; items?:
             {it.condition && <div className="mt-0.5 text-xs text-slate-600">條件：{it.condition}</div>}
             {it.note && <div className="mt-0.5 text-xs italic text-amber-700">{it.note}</div>}
             <LawChip basis={it.law_basis} />
+          </li>
+        ))}
+      </ul>
+    </Section>
+  )
+}
+
+/** 原則 / 例外規定 區塊（rule / exceptions） */
+function RuleSection({
+  title,
+  tone,
+  items,
+}: {
+  title: string
+  tone: Tone
+  items?: RuleEntry[]
+}) {
+  if (!items || items.length === 0) return null
+  return (
+    <Section title={title}>
+      <ul className="space-y-2">
+        {items.map((it, i) => (
+          <li key={i} className={`rounded ${TONE[tone]} px-3 py-2`}>
+            <div className="text-sm text-slate-800">{it.statement}</div>
+            <LawChip basis={it.basis} />
           </li>
         ))}
       </ul>
@@ -141,13 +168,17 @@ export default function TopicDetailPage() {
         <p className="text-sm leading-relaxed text-slate-700">{topic.summary || '（無摘要）'}</p>
       </Section>
 
-      {/* 2-8 知識欄位（皆附法規依據，無資料則不顯示） */}
+      {/* 2. 原則　3. 例外規定 */}
+      <RuleSection title="原則" tone="blue" items={topic.rule} />
+      <RuleSection title="例外規定" tone="purple" items={topic.exceptions} />
+
+      {/* 4-9 知識欄位（皆附法規依據，無資料則不顯示） */}
       <UseSection title="可以使用" tone="green" items={topic.can_use} />
       <UseSection title="不得使用" tone="red" items={topic.cannot_use} />
       <UseSection title="有條件使用" tone="yellow" items={topic.conditional_use} />
       <QuotaSection items={topic.quota_rules} />
-      <UseSection title="相容服務" tone="blue" items={topic.compatibility} />
       <UseSection title="限制事項" tone="red" items={topic.restrictions} />
+      <UseSection title="相容服務" tone="blue" items={topic.compatibility} />
       <MistakeSection items={topic.common_mistakes} />
 
       {/* 9. 法規依據 */}

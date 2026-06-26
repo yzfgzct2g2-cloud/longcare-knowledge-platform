@@ -74,6 +74,14 @@ npm run typecheck  # 型別檢查
 
 ## Version History
 
+### V1.4.2 — Knowledge Rule Model
+- Topic 新增「原則／例外」知識模型欄位：`rule`、`exceptions`、`rule_basis`、`exception_basis`
+- TopicDetailPage 調整為「摘要 → 原則 → 例外規定 → 可使用 → 不得使用 → 有條件使用 → …」順序與配色
+- 外籍看護以 Rule/Exception 重新整理；BA09／BA09a 改列例外（不再誤列為「不得使用」），修正「所有 BA 碼不得使用」之過度簡化
+- 新增函釋／公告資料架構 `knowledge/interpretations/`（README、schema、第一筆 BA09／BA09a 例外函釋）
+- 新增 `DEVELOPMENT_RULES.md`（不可妥協原則）與 `KNOWLEDGE_GOVERNANCE.md`（知識治理規範）
+- Smart Search 預留 Interpretation Layer（TODO，本版不整合）
+
 ### V1.4.1 — Practical Knowledge Enhancement
 - 將高價值實務主題由「搜尋結果整理」升級為「實務知識頁」
 - 新增主題知識欄位：can_use／cannot_use／conditional_use／quota_rules／compatibility／restrictions／common_mistakes／law_basis／manual_review
